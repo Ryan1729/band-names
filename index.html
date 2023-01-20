@@ -11,10 +11,18 @@ padding:0 10px
 }
 </style></head>
 <body>
+    <p>
+      Warning: the random word lists have not (yet) been fully curated.
+      Overly offensive combinations may occur.
+    </p>
     <button id="get-name">Get Random Band Name</button>
     <p id="output-name"></p>
 </body>
 <script>
+
+// TODO Curate lists. Probably remove most if not all proper noun-based
+// adjectives. In particular, place names and names of groups of people
+// are usually not entertaining.
 
 var adjectives = [
     "A-OK",
