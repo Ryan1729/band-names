@@ -1,30 +1,6 @@
 words = {
 "attested": [
 ],
-// TODO Curate lists.
-//
-// In particular, words that indicate things about people that they were
-// not clearly able to choose for themselves are usually not
-// entertaining.
-//
-// Therefore, words that refer to the following things likely ought to
-// be removed:
-// * Places of origin
-// * Languages
-// * Religions/Religious sects
-// * Political ideologies
-//      * These are often boring anyway
-// * Sexualities and/or Genders
-//      * Non-specific references to the act of sex are fine
-// * Human-specific physical appearance
-//      * Things like "large" are okay, but, (for example) things that
-//      are most often used for racialization are not.
-//
-// Me deciding that words should be removed from these lists of words
-// does not mean that I think the things those words refer ought to be
-// removed from the human experience. It merely means that I think that
-// the awkward/offensive combinations those words make possible outweigh
-// the combinations, (if there are any,) that work well.
 "adjectives": [
     "A-OK",
     "AWOL",
@@ -55,7 +31,7 @@ words = {
     "Biedermeier",
     "Bohemian",
     "Bordelaise",
-    "Boswellian",,
+    "Boswellian",
     "Briarean",
     "Brummagem",
     "Byronic",
