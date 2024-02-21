@@ -1,8 +1,708 @@
 words = {
   "attested": [
     [
+      "after",
+      "school"
+    ],
+    [
+      "all",
+      "farmland"
+    ],
+    [
+      "all",
+      "you"
+    ],
+    [
+      "another",
+      "one"
+    ],
+    [
+      "any",
+      "attention"
+    ],
+    [
+      "any",
+      "idea"
+    ],
+    [
+      "any",
+      "sugar"
+    ],
+    [
+      "any",
+      "time"
+    ],
+    [
+      "appropriate",
+      "question"
+    ],
+    [
+      "baby",
+      "hits"
+    ],
+    [
+      "beautiful",
+      "you"
+    ],
+    [
+      "best",
+      "deals"
+    ],
+    [
+      "better",
+      "back"
+    ],
+    [
+      "better",
+      "car"
+    ],
+    [
+      "better",
+      "price"
+    ],
+    [
+      "better",
+      "service"
+    ],
+    [
+      "big",
+      "bruise"
+    ],
+    [
+      "big",
+      "pole"
+    ],
+    [
+      "bomb",
+      "case"
+    ],
+    [
+      "both",
+      "you"
+    ],
+    [
+      "breeding",
+      "pine"
+    ],
+    [
+      "buck",
+      "damage"
+    ],
+    [
+      "called",
+      "you"
+    ],
+    [
+      "ceremonial",
+      "ritual"
+    ],
+    [
+      "coming",
+      "down"
+    ],
+    [
+      "complete",
+      "synchronization"
+    ],
+    [
+      "connecting",
+      "hook"
+    ],
+    [
+      "crazy",
+      "idea"
+    ],
+    [
+      "crying",
+      "out"
+    ],
+    [
+      "cut",
+      "out"
+    ],
+    [
+      "cut",
+      "you"
+    ],
+    [
+      "damn",
+      "hands"
+    ],
+    [
+      "damn",
+      "kids"
+    ],
+    [
+      "damn",
+      "thing"
+    ],
+    [
+      "due",
+      "till"
+    ],
+    [
+      "eight",
+      "years"
+    ],
+    [
+      "electrical",
+      "cable"
+    ],
+    [
+      "enough",
+      "roads"
+    ],
+    [
+      "entire",
+      "family"
+    ],
+    [
+      "even",
+      "bother"
+    ],
+    [
+      "even",
+      "look"
+    ],
+    [
+      "every",
+      "corner"
+    ],
+    [
+      "exact",
+      "time"
+    ],
+    [
+      "fair",
+      "use"
+    ],
+    [
+      "favorite",
+      "television"
+    ],
+    [
+      "first",
+      "television"
+    ],
+    [
+      "first",
+      "thing"
+    ],
+    [
+      "first",
+      "time"
+    ],
+    [
+      "five",
+      "years"
+    ],
+    [
+      "going",
+      "back"
+    ],
+    [
+      "going",
+      "camping"
+    ],
+    [
+      "good",
+      "friend"
+    ],
+    [
+      "good",
+      "luck"
+    ],
+    [
+      "good",
+      "old"
+    ],
+    [
+      "good",
+      "trip"
+    ],
+    [
+      "hard",
+      "waiting"
+    ],
+    [
+      "heard",
+      "you"
+    ],
+    [
+      "here",
+      "right"
+    ],
+    [
+      "industrial",
+      "strength"
+    ],
+    [
+      "invented",
+      "time"
+    ],
+    [
+      "just",
+      "loves"
+    ],
+    [
+      "just",
+      "might"
+    ],
+    [
+      "just",
+      "walk"
+    ],
+    [
+      "laid",
+      "out"
+    ],
+    [
+      "last",
+      "one"
+    ],
+    [
+      "last",
+      "thing"
+    ],
+    [
+      "like",
+      "I've"
+    ],
+    [
+      "like",
+      "glue"
+    ],
+    [
+      "like",
+      "you"
+    ],
+    [
+      "little",
+      "baby"
+    ],
+    [
+      "little",
+      "break"
+    ],
+    [
+      "little",
+      "hard"
+    ],
+    [
+      "little",
+      "lost"
+    ],
+    [
+      "little",
+      "more"
+    ],
+    [
+      "little",
+      "weather"
+    ],
+    [
+      "little",
+      "while"
+    ],
+    [
+      "living",
+      "room"
+    ],
+    [
+      "long",
+      "have"
+    ],
+    [
+      "looking",
+      "all"
+    ],
+    [
+      "looking",
+      "beyond"
+    ],
+    [
+      "made",
+      "you"
+    ],
+    [
+      "major",
+      "embarrassment"
+    ],
+    [
+      "man",
+      "you"
+    ],
+    [
+      "mean",
+      "how"
+    ],
+    [
+      "melting",
+      "stuff"
+    ],
+    [
+      "minute",
+      "behind"
+    ],
+    [
+      "much",
+      "money"
+    ],
+    [
+      "must",
+      "know"
+    ],
+    [
+      "named",
+      "Greg"
+    ],
+    [
+      "natural",
+      "course"
+    ],
+    [
+      "new",
+      "truck"
+    ],
+    [
+      "next",
+      "Saturday"
+    ],
+    [
+      "next",
+      "twenty-five"
+    ],
+    [
+      "nice",
+      "girls"
+    ],
+    [
+      "nice",
+      "round"
+    ],
+    [
+      "nine",
+      "hours"
+    ],
+    [
+      "noticed",
+      "you"
+    ],
+    [
+      "nuclear",
+      "reaction"
+    ],
+    [
+      "off",
+      "you"
+    ],
+    [
+      "okay",
+      "you"
+    ],
+    [
+      "old",
+      "man"
+    ],
+    [
+      "one",
+      "I've"
+    ],
+    [
+      "one",
+      "day"
+    ],
+    [
+      "one",
+      "pallet"
+    ],
+    [
+      "one",
+      "point"
+    ],
+    [
+      "one",
+      "rejection"
+    ],
+    [
+      "one",
+      "tells"
+    ],
+    [
+      "one",
+      "trip"
+    ],
+    [
+      "one",
+      "who"
+    ],
+    [
+      "only",
+      "one"
+    ],
+    [
+      "only",
+      "power"
+    ],
+    [
+      "only",
+      "way"
+    ],
+    [
+      "other",
+      "end"
+    ],
+    [
+      "out",
+      "but"
+    ],
+    [
+      "out",
+      "load"
+    ],
+    [
+      "out",
+      "there"
+    ],
+    [
+      "over",
+      "first"
+    ],
+    [
+      "over",
+      "there"
+    ],
+    [
+      "over",
+      "you"
+    ],
+    [
+      "own",
+      "future"
+    ],
+    [
+      "owned",
+      "all"
+    ],
+    [
+      "parked",
+      "car"
+    ],
+    [
+      "part",
+      "coming"
+    ],
+    [
+      "past",
+      "few"
+    ],
+    [
+      "portable",
+      "television"
+    ],
+    [
+      "power",
+      "source"
+    ],
+    [
+      "powerful",
+      "mayor"
+    ],
+    [
+      "practical",
+      "jokes"
+    ],
+    [
+      "pretty",
+      "hard"
+    ],
+    [
+      "purple",
+      "underwear"
+    ],
+    [
+      "real",
+      "attitude"
+    ],
+    [
+      "red-letter",
+      "date"
+    ],
+    [
+      "rhythmic",
+      "ceremonial"
+    ],
+    [
+      "right",
+      "here"
+    ],
+    [
+      "right",
+      "now"
+    ],
+    [
+      "ritual",
+      "coming"
+    ],
+    [
+      "second",
+      "coat"
+    ],
+    [
+      "seen",
+      "purple"
+    ],
+    [
+      "set",
+      "all"
+    ],
+    [
+      "shiny",
+      "bomb"
+    ],
+    [
+      "sister",
+      "will"
+    ],
+    [
       "skull",
       "necklace"
+    ],
+    [
+      "sleeping",
+      "bags"
+    ],
+    [
+      "slight",
+      "possibility"
+    ],
+    [
+      "some",
+      "blues"
+    ],
+    [
+      "some",
+      "extra"
+    ],
+    [
+      "some",
+      "respect"
+    ],
+    [
+      "some",
+      "sort"
+    ],
+    [
+      "specialized",
+      "weather"
+    ],
+    [
+      "standard",
+      "lecture"
+    ],
+    [
+      "standing",
+      "here"
+    ],
+    [
+      "still",
+      "hanging"
+    ],
+    [
+      "strange",
+      "young"
+    ],
+    [
+      "telling",
+      "you"
+    ],
+    [
+      "temporal",
+      "experiment"
+    ],
+    [
+      "terrorist",
+      "group"
+    ],
+    [
+      "thirty",
+      "years"
+    ],
+    [
+      "told",
+      "you"
+    ],
+    [
+      "tracked",
+      "you"
+    ],
+    [
+      "twenty",
+      "five"
+    ],
+    [
+      "twenty-five",
+      "minutes"
+    ],
+    [
+      "twenty-five",
+      "world"
+    ],
+    [
+      "twenty-one",
+      "gigawatts"
+    ],
+    [
+      "two",
+      "coats"
+    ],
+    [
+      "two",
+      "lamp"
+    ],
+    [
+      "two",
+      "television"
+    ],
+    [
+      "two",
+      "weeks"
+    ],
+    [
+      "used",
+      "pinball"
+    ],
+    [
+      "very",
+      "first"
+    ],
+    [
+      "very",
+      "good"
+    ],
+    [
+      "walking",
+      "all"
+    ],
+    [
+      "well",
+      "history"
+    ],
+    [
+      "well",
+      "you"
+    ],
+    [
+      "whatever",
+      "precautions"
+    ],
+    [
+      "white",
+      "line"
+    ],
+    [
+      "young",
+      "man"
     ]
   ],
   "adjectives": [
@@ -230,7 +930,6 @@ words = {
     "abortional",
     "abortive",
     "abounding",
-    "about",
     "above",
     "above-board",
     "above-mentioned",
@@ -31113,7 +31812,6 @@ words = {
     "Hypatia",
     "Hyperion",
     "Hypnos",
-    "I'm",
     "I've",
     "I-beam",
     "I-beams",
@@ -38561,7 +39259,6 @@ words = {
     "ancillary",
     "ancon",
     "ancones",
-    "and",
     "andalusite",
     "andante",
     "andantes",
@@ -39728,7 +40425,6 @@ words = {
     "ardour",
     "ardours",
     "arduousness",
-    "are",
     "area",
     "areas",
     "areaway",
@@ -58027,7 +58723,6 @@ words = {
     "dominoes",
     "dominos",
     "don",
-    "don't",
     "don't-know",
     "don't-knows",
     "dona",
@@ -66752,7 +67447,6 @@ words = {
     "gests",
     "gesture",
     "gestures",
-    "get",
     "get-out",
     "get-together",
     "get-togethers",
@@ -75016,7 +75710,6 @@ words = {
     "islets",
     "ism",
     "isms",
-    "isn't",
     "isoagglutination",
     "isoagglutinin",
     "isoantigen",
@@ -78376,7 +79069,6 @@ words = {
     "ligure",
     "ligures",
     "likableness",
-    "like",
     "like-mindedness",
     "likelihood",
     "likelihoods",
@@ -79954,7 +80646,6 @@ words = {
     "majors",
     "majuscule",
     "majuscules",
-    "make",
     "make-believe",
     "make-peace",
     "make-ready",
@@ -86159,7 +86850,6 @@ words = {
     "oestruses",
     "oeuvre",
     "oeuvres",
-    "off",
     "off-day",
     "off-days",
     "off-licence",
@@ -87275,7 +87965,6 @@ words = {
     "ovens",
     "ovenware",
     "ovenwood",
-    "over",
     "overabundance",
     "overabundances",
     "overacting",
@@ -105829,7 +106518,6 @@ words = {
     "start",
     "starter",
     "starters",
-    "starting",
     "startings",
     "startle",
     "startler",
@@ -116690,7 +117378,6 @@ words = {
     "whelks",
     "whelp",
     "whelps",
-    "when",
     "whens",
     "where",
     "whereabouts",
@@ -117923,10 +118610,6 @@ words = {
     "yorkers",
     "yorks",
     "you",
-    "you'd",
-    "you'll",
-    "you're",
-    "you've",
     "young",
     "youngberries",
     "youngberry",
