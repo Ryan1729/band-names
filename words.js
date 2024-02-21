@@ -1,7 +1,11 @@
 words = {
-"attested": [
-],
-"adjectives": [
+  "attested": [
+    [
+      "skull",
+      "necklace"
+    ]
+  ],
+  "adjectives": [
     "A-OK",
     "AWOL",
     "Adonic",
@@ -27495,8 +27499,8 @@ words = {
     "zymolysis",
     "zymolytic",
     "zymotic"
-],
-"nouns": [
+  ],
+  "nouns": [
     "A-bomb",
     "A-bombs",
     "A-frame",
@@ -118215,5 +118219,5 @@ words = {
     "zymometers",
     "zymosis",
     "zymurgy"
-]
+  ]
 }
