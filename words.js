@@ -266,10 +266,6 @@ words = {
     ],
     [
       "like",
-      "I've"
-    ],
-    [
-      "like",
       "glue"
     ],
     [
@@ -403,10 +399,6 @@ words = {
     [
       "old",
       "man"
-    ],
-    [
-      "one",
-      "I've"
     ],
     [
       "one",
@@ -31812,7 +31804,6 @@ words = {
     "Hypatia",
     "Hyperion",
     "Hypnos",
-    "I've",
     "I-beam",
     "I-beams",
     "I-spy",
