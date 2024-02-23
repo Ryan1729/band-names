@@ -11,10 +11,18 @@ padding:0 10px
 }
 </style></head>
 <body>
-    <p>
-      Warning: the random word lists have not (yet) been fully curated.
-      Overly offensive combinations may occur.
+    <p id="warning" style="visibility: hidden">
+      Warning: the selected random word lists have not (yet) been fully
+      curated. Overly offensive combinations may occur.
     </p>
+    <form id="mode-form">
+      <input type="radio" id="attested" name="mode" value="attested" checked />
+      <label for="attested">Attested</label>
+      <input type="radio" id="attested-mixed" name="mode" value="attested-mixed" />
+      <label for="attested-mixed">Attested Mixed</label>
+      <input type="radio" id="any" name="mode" value="any" />
+      <label for="any">Any</label>
+    </form>
     <button id="get-name">Get Random Band Name</button>
     <p id="output-name"></p>
 </body>
@@ -46,13 +54,61 @@ padding:0 10px
 -->
 <script src="words.js"></script>
 <script>
-document.getElementById("get-name").onclick = function() {
-    var adjective_i = Math.floor(Math.random() * words.adjectives.length);
-    var noun_i = Math.floor(Math.random() * words.nouns.length);
+const warning = document.getElementById("warning")
 
-    var name = words.adjectives[adjective_i] + " " + words.nouns[noun_i];
+const ATTESTED = "attested"
+const ATTESTED_MIXED = "attested-mixed"
+const ANY = "any"
 
-    document.getElementById("output-name").innerHTML = name;
+document.getElementById("mode-form").reset()
+let currentMode = ATTESTED
+const onChecked = (id) => {
+    switch (id) {
+        default:
+            console.error("bad id: " + id)
+            //fallthrough
+        case ATTESTED:
+            warning.style.visibility = "hidden"
+            currentMode = ATTESTED
+        break
+        case ATTESTED_MIXED:
+            warning.style.visibility = "hidden"
+            currentMode = ATTESTED_MIXED
+        break
+        case ANY:
+            warning.style.visibility = "visible"
+            currentMode = ANY
+        break
+    }
+}
+
+document.getElementById(ATTESTED).onclick = () => onChecked(ATTESTED)
+document.getElementById(ATTESTED_MIXED).onclick = () => onChecked(ATTESTED_MIXED)
+document.getElementById(ANY).onclick = () => onChecked(ANY)
+
+const selectFromArray = (array) => array[Math.floor(Math.random() * array.length)]
+
+document.getElementById("get-name").onclick = () => {
+    let adj;
+    let noun;
+    switch (currentMode) {
+        default:
+            console.error("bad currentMode: " + currentMode)
+            //fallthrough
+        case ATTESTED:
+            [adj, noun] = selectFromArray(words.attested)
+        break
+        case ATTESTED_MIXED:
+            [adj, ] = selectFromArray(words.attested);
+            [, noun] = selectFromArray(words.attested);
+        break
+        case ANY:
+            adj = selectFromArray(words.adjectives)
+            noun = selectFromArray(words.nouns)
+        break
+    }
+
+    document.getElementById("output-name").innerHTML = adj + " " + noun;
 };
 </script>
 </html>
