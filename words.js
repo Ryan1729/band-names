@@ -1,8 +1,64 @@
 words = {
   "attested": [
     [
+      "abandoned",
+      "silver"
+    ],
+    [
+      "absolute",
+      "dream"
+    ],
+    [
+      "absolute",
+      "favorite"
+    ],
+    [
+      "adjacent",
+      "graveyard"
+    ],
+    [
+      "afraid",
+      "you"
+    ],
+    [
+      "after",
+      "breakfast"
+    ],
+    [
+      "after",
+      "bringing"
+    ],
+    [
+      "after",
+      "doing"
+    ],
+    [
+      "after",
+      "printing"
+    ],
+    [
       "after",
       "school"
+    ],
+    [
+      "after",
+      "she"
+    ],
+    [
+      "after",
+      "we've"
+    ],
+    [
+      "after",
+      "you"
+    ],
+    [
+      "all",
+      "back"
+    ],
+    [
+      "all",
+      "day"
     ],
     [
       "all",
@@ -10,11 +66,123 @@ words = {
     ],
     [
       "all",
+      "great"
+    ],
+    [
+      "all",
+      "have"
+    ],
+    [
+      "all",
+      "lawyers"
+    ],
+    [
+      "all",
+      "night"
+    ],
+    [
+      "all",
+      "right"
+    ],
+    [
+      "all",
+      "sciences"
+    ],
+    [
+      "all",
+      "self-control"
+    ],
+    [
+      "all",
+      "seriousness"
+    ],
+    [
+      "all",
+      "set"
+    ],
+    [
+      "all",
+      "synthetics"
+    ],
+    [
+      "all",
+      "three"
+    ],
+    [
+      "all",
+      "time"
+    ],
+    [
+      "all",
+      "times"
+    ],
+    [
+      "all",
+      "week"
+    ],
+    [
+      "all",
+      "wrong"
+    ],
+    [
+      "all",
       "you"
+    ],
+    [
+      "alpha",
+      "rhythm"
+    ],
+    [
+      "altered",
+      "history"
+    ],
+    [
+      "alternate",
+      "reality"
+    ],
+    [
+      "amazing",
+      "coincidence"
+    ],
+    [
+      "amazing",
+      "history"
+    ],
+    [
+      "angered",
+      "look"
+    ],
+    [
+      "another",
+      "boarding"
+    ],
+    [
+      "another",
+      "man"
+    ],
+    [
+      "another",
+      "member"
     ],
     [
       "another",
       "one"
+    ],
+    [
+      "another",
+      "picture"
+    ],
+    [
+      "another",
+      "thing"
+    ],
+    [
+      "another",
+      "truck"
+    ],
+    [
+      "answering",
+      "service"
     ],
     [
       "any",
@@ -22,7 +190,39 @@ words = {
     ],
     [
       "any",
+      "clue"
+    ],
+    [
+      "any",
+      "complaints"
+    ],
+    [
+      "any",
+      "events"
+    ],
+    [
+      "any",
+      "help"
+    ],
+    [
+      "any",
       "idea"
+    ],
+    [
+      "any",
+      "one"
+    ],
+    [
+      "any",
+      "rain"
+    ],
+    [
+      "any",
+      "relatives"
+    ],
+    [
+      "any",
+      "resemblance"
     ],
     [
       "any",
@@ -33,20 +233,132 @@ words = {
       "time"
     ],
     [
+      "any",
+      "trouble"
+    ],
+    [
+      "any",
+      "way"
+    ],
+    [
       "appropriate",
       "question"
+    ],
+    [
+      "assistant",
+      "giving"
+    ],
+    [
+      "atomic",
+      "wars"
+    ],
+    [
+      "awed",
+      "whisper"
+    ],
+    [
+      "awful",
+      "mess"
+    ],
+    [
+      "baby",
+      "can"
     ],
     [
       "baby",
       "hits"
     ],
     [
+      "baby",
+      "takes"
+    ],
+    [
+      "back",
+      "door"
+    ],
+    [
+      "back",
+      "down"
+    ],
+    [
+      "back",
+      "here"
+    ],
+    [
+      "back",
+      "now"
+    ],
+    [
+      "back",
+      "out"
+    ],
+    [
+      "back",
+      "pocket"
+    ],
+    [
+      "back",
+      "ten"
+    ],
+    [
+      "back",
+      "then"
+    ],
+    [
+      "back",
+      "there"
+    ],
+    [
+      "back",
+      "window"
+    ],
+    [
+      "barbed",
+      "wire"
+    ],
+    [
+      "bare",
+      "butt"
+    ],
+    [
+      "bearded",
+      "man"
+    ],
+    [
+      "beat",
+      "Iowa"
+    ],
+    [
+      "beautiful",
+      "name"
+    ],
+    [
+      "beautiful",
+      "views"
+    ],
+    [
       "beautiful",
       "you"
     ],
     [
+      "behind",
+      "mine"
+    ],
+    [
+      "behind",
+      "you"
+    ],
+    [
+      "beloved",
+      "Clara"
+    ],
+    [
       "best",
       "deals"
+    ],
+    [
+      "best",
+      "stuff"
     ],
     [
       "better",
@@ -58,6 +370,18 @@ words = {
     ],
     [
       "better",
+      "face"
+    ],
+    [
+      "better",
+      "hold"
+    ],
+    [
+      "better",
+      "life"
+    ],
+    [
+      "better",
       "price"
     ],
     [
@@ -65,12 +389,52 @@ words = {
       "service"
     ],
     [
+      "better",
+      "wearing"
+    ],
+    [
+      "big",
+      "brown"
+    ],
+    [
       "big",
       "bruise"
     ],
     [
       "big",
+      "deal"
+    ],
+    [
+      "big",
+      "house"
+    ],
+    [
+      "big",
       "pole"
+    ],
+    [
+      "big",
+      "problem"
+    ],
+    [
+      "big",
+      "trouble"
+    ],
+    [
+      "big",
+      "wedding"
+    ],
+    [
+      "biggest",
+      "case"
+    ],
+    [
+      "bionic",
+      "implants"
+    ],
+    [
+      "black",
+      "steam"
     ],
     [
       "bomb",
@@ -78,39 +442,251 @@ words = {
     ],
     [
       "both",
+      "men"
+    ],
+    [
+      "both",
+      "think"
+    ],
+    [
+      "both",
+      "turn"
+    ],
+    [
+      "both",
       "you"
+    ],
+    [
+      "breeding",
+      "ground"
     ],
     [
       "breeding",
       "pine"
     ],
     [
+      "brilliant",
+      "flash"
+    ],
+    [
+      "broke",
+      "down"
+    ],
+    [
+      "broke",
+      "loose"
+    ],
+    [
+      "broken",
+      "heart"
+    ],
+    [
+      "broken",
+      "part"
+    ],
+    [
+      "brother",
+      "named"
+    ],
+    [
+      "brown",
+      "bear"
+    ],
+    [
+      "brown",
+      "paper"
+    ],
+    [
+      "brown",
+      "puppy"
+    ],
+    [
+      "brownish",
+      "solid"
+    ],
+    [
+      "brushed",
+      "teeth"
+    ],
+    [
+      "bubbling",
+      "noise"
+    ],
+    [
       "buck",
       "damage"
+    ],
+    [
+      "buried",
+      "here"
+    ],
+    [
+      "burned",
+      "down"
+    ],
+    [
+      "business",
+      "proposal"
+    ],
+    [
+      "bustling",
+      "town"
+    ],
+    [
+      "called",
+      "Copernicus"
     ],
     [
       "called",
       "you"
     ],
     [
+      "calm",
+      "down"
+    ],
+    [
+      "canned",
+      "dog"
+    ],
+    [
+      "cardboard",
+      "near"
+    ],
+    [
+      "carved",
+      "tombstones"
+    ],
+    [
       "ceremonial",
       "ritual"
+    ],
+    [
+      "changed",
+      "back"
+    ],
+    [
+      "chopping",
+      "meat"
+    ],
+    [
+      "climbing",
+      "down"
+    ],
+    [
+      "close",
+      "behind"
+    ],
+    [
+      "color",
+      "coding"
+    ],
+    [
+      "colored",
+      "logs"
+    ],
+    [
+      "combed",
+      "now"
+    ],
+    [
+      "combustion",
+      "engine"
+    ],
+    [
+      "coming",
+      "back"
     ],
     [
       "coming",
       "down"
     ],
     [
+      "coming",
+      "face"
+    ],
+    [
+      "coming",
+      "home"
+    ],
+    [
+      "common",
+      "interests"
+    ],
+    [
+      "community",
+      "center"
+    ],
+    [
+      "complete",
+      "success"
+    ],
+    [
       "complete",
       "synchronization"
+    ],
+    [
+      "complete",
+      "wimp"
+    ],
+    [
+      "concerned",
+      "people"
+    ],
+    [
+      "concerned",
+      "voice"
     ],
     [
       "connecting",
       "hook"
     ],
     [
+      "convenient",
+      "locations"
+    ],
+    [
+      "costume",
+      "while"
+    ],
+    [
+      "county",
+      "jail"
+    ],
+    [
+      "crack",
+      "shot"
+    ],
+    [
+      "crashing",
+      "straight"
+    ],
+    [
+      "crazy",
+      "drunk"
+    ],
+    [
       "crazy",
       "idea"
+    ],
+    [
+      "crazy",
+      "inventions"
+    ],
+    [
+      "crazy",
+      "old"
+    ],
+    [
+      "crossing",
+      "bells"
+    ],
+    [
+      "crushed",
+      "Minnesota"
+    ],
+    [
+      "crying",
+      "baby"
     ],
     [
       "crying",
@@ -125,6 +701,26 @@ words = {
       "you"
     ],
     [
+      "damaging",
+      "one"
+    ],
+    [
+      "damn",
+      "close"
+    ],
+    [
+      "damn",
+      "cold"
+    ],
+    [
+      "damn",
+      "cover"
+    ],
+    [
+      "damn",
+      "fool"
+    ],
+    [
       "damn",
       "hands"
     ],
@@ -137,24 +733,180 @@ words = {
       "thing"
     ],
     [
+      "darling",
+      "dear"
+    ],
+    [
+      "dead",
+      "Chinee"
+    ],
+    [
+      "dead",
+      "deer"
+    ],
+    [
+      "dead",
+      "end"
+    ],
+    [
+      "dead",
+      "forever"
+    ],
+    [
+      "defeated",
+      "Washington"
+    ],
+    [
+      "deputy",
+      "Marshall"
+    ],
+    [
+      "determined",
+      "look"
+    ],
+    [
+      "different",
+      "pieces"
+    ],
+    [
+      "distant",
+      "relative"
+    ],
+    [
+      "distant",
+      "voice"
+    ],
+    [
+      "disturbing",
+      "anything"
+    ],
+    [
+      "done",
+      "more"
+    ],
+    [
+      "down",
+      "plate"
+    ],
+    [
+      "down",
+      "six"
+    ],
+    [
+      "dressed",
+      "you"
+    ],
+    [
+      "driving",
+      "mode"
+    ],
+    [
+      "drunk",
+      "drivers"
+    ],
+    [
+      "drunk",
+      "pedestrian"
+    ],
+    [
       "due",
       "till"
+    ],
+    [
+      "each",
+      "log"
+    ],
+    [
+      "earlier",
+      "weather"
+    ],
+    [
+      "easy",
+      "way"
+    ],
+    [
+      "edging",
+      "closer"
+    ],
+    [
+      "eight",
+      "months"
     ],
     [
       "eight",
       "years"
     ],
     [
+      "eighty",
+      "dollars"
+    ],
+    [
       "electrical",
       "cable"
+    ],
+    [
+      "else",
+      "says"
+    ],
+    [
+      "else",
+      "stealing"
+    ],
+    [
+      "else",
+      "you"
+    ],
+    [
+      "enclosed",
+      "map"
+    ],
+    [
+      "enough",
+      "power"
+    ],
+    [
+      "enough",
+      "road"
     ],
     [
       "enough",
       "roads"
     ],
     [
+      "enough",
+      "surface"
+    ],
+    [
+      "entire",
+      "destiny"
+    ],
+    [
       "entire",
       "family"
+    ],
+    [
+      "entire",
+      "fortune"
+    ],
+    [
+      "entire",
+      "life"
+    ],
+    [
+      "entire",
+      "night"
+    ],
+    [
+      "entire",
+      "plan"
+    ],
+    [
+      "entire",
+      "universe"
+    ],
+    [
+      "eternal",
+      "memory"
     ],
     [
       "even",
@@ -162,23 +914,183 @@ words = {
     ],
     [
       "even",
+      "give"
+    ],
+    [
+      "even",
       "look"
+    ],
+    [
+      "every",
+      "advantage"
     ],
     [
       "every",
       "corner"
     ],
     [
+      "every",
+      "major"
+    ],
+    [
+      "every",
+      "one"
+    ],
+    [
+      "every",
+      "time"
+    ],
+    [
+      "exact",
+      "date"
+    ],
+    [
+      "exact",
+      "location"
+    ],
+    [
       "exact",
       "time"
+    ],
+    [
+      "explicit",
+      "instructions"
+    ],
+    [
+      "fabulous",
+      "winning"
     ],
     [
       "fair",
       "use"
     ],
     [
+      "familiar",
+      "three"
+    ],
+    [
+      "far",
+      "does"
+    ],
+    [
+      "fashioned",
+      "video"
+    ],
+    [
+      "fast",
+      "she"
+    ],
+    [
       "favorite",
       "television"
+    ],
+    [
+      "feeling",
+      "all"
+    ],
+    [
+      "few",
+      "bucks"
+    ],
+    [
+      "few",
+      "days"
+    ],
+    [
+      "few",
+      "minutes"
+    ],
+    [
+      "few",
+      "more"
+    ],
+    [
+      "few",
+      "paces"
+    ],
+    [
+      "few",
+      "short"
+    ],
+    [
+      "few",
+      "steps"
+    ],
+    [
+      "few",
+      "yards"
+    ],
+    [
+      "fifteen",
+      "days"
+    ],
+    [
+      "fifty",
+      "yards"
+    ],
+    [
+      "filled",
+      "horse"
+    ],
+    [
+      "final",
+      "acceptance"
+    ],
+    [
+      "financial",
+      "gain"
+    ],
+    [
+      "financial",
+      "problems"
+    ],
+    [
+      "fine",
+      "Kentucky"
+    ],
+    [
+      "fine",
+      "hat"
+    ],
+    [
+      "fine",
+      "horses"
+    ],
+    [
+      "first",
+      "date"
+    ],
+    [
+      "first",
+      "film"
+    ],
+    [
+      "first",
+      "lady"
+    ],
+    [
+      "first",
+      "million"
+    ],
+    [
+      "first",
+      "movie"
+    ],
+    [
+      "first",
+      "novel"
+    ],
+    [
+      "first",
+      "one"
+    ],
+    [
+      "first",
+      "read"
+    ],
+    [
+      "first",
+      "sight"
     ],
     [
       "first",
@@ -194,7 +1106,159 @@ words = {
     ],
     [
       "five",
+      "more"
+    ],
+    [
+      "five",
+      "times"
+    ],
+    [
+      "five",
       "years"
+    ],
+    [
+      "five",
+      "zero"
+    ],
+    [
+      "floating",
+      "device"
+    ],
+    [
+      "flowing",
+      "hair"
+    ],
+    [
+      "fly",
+      "away"
+    ],
+    [
+      "flying",
+      "circuits"
+    ],
+    [
+      "flying",
+      "weather"
+    ],
+    [
+      "following",
+      "close"
+    ],
+    [
+      "found",
+      "you"
+    ],
+    [
+      "four",
+      "point"
+    ],
+    [
+      "framed",
+      "photo"
+    ],
+    [
+      "fresh",
+      "air"
+    ],
+    [
+      "fresh",
+      "batteries"
+    ],
+    [
+      "front",
+      "door"
+    ],
+    [
+      "front",
+      "while"
+    ],
+    [
+      "full",
+      "arms"
+    ],
+    [
+      "full",
+      "hour"
+    ],
+    [
+      "further",
+      "disruption"
+    ],
+    [
+      "future",
+      "clothes"
+    ],
+    [
+      "future",
+      "hasn't"
+    ],
+    [
+      "future",
+      "home"
+    ],
+    [
+      "future",
+      "might"
+    ],
+    [
+      "future",
+      "now"
+    ],
+    [
+      "future",
+      "self"
+    ],
+    [
+      "future",
+      "son"
+    ],
+    [
+      "future",
+      "wear"
+    ],
+    [
+      "futuristic",
+      "automobile"
+    ],
+    [
+      "futuristic",
+      "glasses"
+    ],
+    [
+      "futuristic",
+      "things"
+    ],
+    [
+      "game",
+      "boy"
+    ],
+    [
+      "game",
+      "kid"
+    ],
+    [
+      "gauge",
+      "will"
+    ],
+    [
+      "giant",
+      "brown"
+    ],
+    [
+      "giant",
+      "machine"
+    ],
+    [
+      "gigantic",
+      "explosion"
+    ],
+    [
+      "glad",
+      "somebody"
+    ],
+    [
+      "going",
+      "away"
     ],
     [
       "going",
@@ -205,8 +1269,48 @@ words = {
       "camping"
     ],
     [
+      "going",
+      "now"
+    ],
+    [
+      "going",
+      "there"
+    ],
+    [
+      "gone",
+      "back"
+    ],
+    [
+      "gone",
+      "blind"
+    ],
+    [
+      "good",
+      "bottle"
+    ],
+    [
+      "good",
+      "dough"
+    ],
+    [
+      "good",
+      "face-lift"
+    ],
+    [
       "good",
       "friend"
+    ],
+    [
+      "good",
+      "home"
+    ],
+    [
+      "good",
+      "idea"
+    ],
+    [
+      "good",
+      "job"
     ],
     [
       "good",
@@ -218,11 +1322,99 @@ words = {
     ],
     [
       "good",
+      "one"
+    ],
+    [
+      "good",
+      "scientist"
+    ],
+    [
+      "good",
+      "stuff"
+    ],
+    [
+      "good",
       "trip"
+    ],
+    [
+      "grave",
+      "wasn't"
+    ],
+    [
+      "gravitational",
+      "pull"
+    ],
+    [
+      "great",
+      "flash"
+    ],
+    [
+      "great",
+      "idea"
+    ],
+    [
+      "great",
+      "music"
+    ],
+    [
+      "great",
+      "mystery"
+    ],
+    [
+      "greatest",
+      "living"
+    ],
+    [
+      "green",
+      "light"
+    ],
+    [
+      "growing",
+      "dark"
+    ],
+    [
+      "gull-wing",
+      "door"
+    ],
+    [
+      "guns",
+      "down"
+    ],
+    [
+      "hanging",
+      "upside"
+    ],
+    [
+      "happiest",
+      "moment"
+    ],
+    [
+      "happy",
+      "living"
+    ],
+    [
+      "hard",
+      "time"
     ],
     [
       "hard",
       "waiting"
+    ],
+    [
+      "hard",
+      "way"
+    ],
+    [
+      "head",
+      "hard"
+    ],
+    [
+      "head",
+      "out"
+    ],
+    [
+      "headed",
+      "straight"
     ],
     [
       "heard",
@@ -230,15 +1422,215 @@ words = {
     ],
     [
       "here",
+      "back"
+    ],
+    [
+      "here",
+      "but"
+    ],
+    [
+      "here",
+      "now"
+    ],
+    [
+      "here",
       "right"
+    ],
+    [
+      "here",
+      "shindig"
+    ],
+    [
+      "here",
+      "yesterday"
+    ],
+    [
+      "high",
+      "school"
+    ],
+    [
+      "high",
+      "time"
+    ],
+    [
+      "hind",
+      "legs"
+    ],
+    [
+      "historic",
+      "journey"
+    ],
+    [
+      "historical",
+      "landmark"
+    ],
+    [
+      "hit",
+      "you"
+    ],
+    [
+      "holding",
+      "guns"
+    ],
+    [
+      "holding",
+      "out"
+    ],
+    [
+      "home",
+      "boy"
+    ],
+    [
+      "home",
+      "hours"
+    ],
+    [
+      "horrible",
+      "nightmare"
+    ],
+    [
+      "horrible",
+      "place"
+    ],
+    [
+      "hot",
+      "air"
+    ],
+    [
+      "hot",
+      "enough"
+    ],
+    [
+      "huge",
+      "explosion"
+    ],
+    [
+      "huge",
+      "freight"
+    ],
+    [
+      "humble",
+      "beginnings"
+    ],
+    [
+      "hundred",
+      "years"
+    ],
+    [
+      "hurt",
+      "he'd"
+    ],
+    [
+      "hurt",
+      "man"
+    ],
+    [
+      "idiotic",
+      "look"
+    ],
+    [
+      "important",
+      "event"
     ],
     [
       "industrial",
       "strength"
     ],
     [
+      "infernal",
+      "machine"
+    ],
+    [
+      "infernal",
+      "time"
+    ],
+    [
+      "inside",
+      "out"
+    ],
+    [
+      "intent",
+      "here"
+    ],
+    [
+      "interesting",
+      "feature"
+    ],
+    [
+      "interesting",
+      "music"
+    ],
+    [
+      "internal",
+      "combustion"
+    ],
+    [
       "invented",
       "time"
+    ],
+    [
+      "ironic",
+      "statement"
+    ],
+    [
+      "just",
+      "back"
+    ],
+    [
+      "just",
+      "came"
+    ],
+    [
+      "just",
+      "doing"
+    ],
+    [
+      "just",
+      "ease"
+    ],
+    [
+      "just",
+      "have"
+    ],
+    [
+      "just",
+      "here"
+    ],
+    [
+      "just",
+      "hit"
+    ],
+    [
+      "just",
+      "hits"
+    ],
+    [
+      "just",
+      "inside"
+    ],
+    [
+      "just",
+      "kind"
+    ],
+    [
+      "just",
+      "laughs"
+    ],
+    [
+      "just",
+      "leave"
+    ],
+    [
+      "just",
+      "left"
+    ],
+    [
+      "just",
+      "let"
+    ],
+    [
+      "just",
+      "likes"
     ],
     [
       "just",
@@ -250,11 +1642,83 @@ words = {
     ],
     [
       "just",
+      "need"
+    ],
+    [
+      "just",
+      "one"
+    ],
+    [
+      "just",
+      "out"
+    ],
+    [
+      "just",
+      "perfect"
+    ],
+    [
+      "just",
+      "put"
+    ],
+    [
+      "just",
+      "said"
+    ],
+    [
+      "just",
+      "say"
+    ],
+    [
+      "just",
+      "stares"
+    ],
+    [
+      "just",
+      "stop"
+    ],
+    [
+      "just",
+      "take"
+    ],
+    [
+      "just",
+      "tell"
+    ],
+    [
+      "just",
+      "think"
+    ],
+    [
+      "just",
+      "waking"
+    ],
+    [
+      "just",
       "walk"
+    ],
+    [
+      "just",
+      "want"
+    ],
+    [
+      "just",
+      "watching"
+    ],
+    [
+      "knowing",
+      "how"
     ],
     [
       "laid",
       "out"
+    ],
+    [
+      "large",
+      "black"
+    ],
+    [
+      "last",
+      "night"
     ],
     [
       "last",
@@ -265,12 +1729,60 @@ words = {
       "thing"
     ],
     [
+      "last",
+      "time"
+    ],
+    [
+      "last",
+      "week"
+    ],
+    [
+      "latest",
+      "experiment"
+    ],
+    [
+      "latest",
+      "products"
+    ],
+    [
+      "lazy",
+      "bum"
+    ],
+    [
+      "light",
+      "beer"
+    ],
+    [
+      "light",
+      "leaving"
+    ],
+    [
+      "light",
+      "turns"
+    ],
+    [
       "like",
       "glue"
     ],
     [
       "like",
+      "lightning"
+    ],
+    [
+      "like",
+      "men"
+    ],
+    [
+      "like",
       "you"
+    ],
+    [
+      "liked",
+      "Jules"
+    ],
+    [
+      "liquid",
+      "dripping"
     ],
     [
       "little",
@@ -278,7 +1790,47 @@ words = {
     ],
     [
       "little",
+      "bet"
+    ],
+    [
+      "little",
+      "bit"
+    ],
+    [
+      "little",
+      "boy"
+    ],
+    [
+      "little",
       "break"
+    ],
+    [
+      "little",
+      "business"
+    ],
+    [
+      "little",
+      "chicken"
+    ],
+    [
+      "little",
+      "cot"
+    ],
+    [
+      "little",
+      "cranny"
+    ],
+    [
+      "little",
+      "devil"
+    ],
+    [
+      "little",
+      "diorama"
+    ],
+    [
+      "little",
+      "girl"
     ],
     [
       "little",
@@ -286,11 +1838,59 @@ words = {
     ],
     [
       "little",
+      "info"
+    ],
+    [
+      "little",
       "lost"
     ],
     [
       "little",
+      "matter"
+    ],
+    [
+      "little",
+      "model"
+    ],
+    [
+      "little",
       "more"
+    ],
+    [
+      "little",
+      "personal"
+    ],
+    [
+      "little",
+      "photograph"
+    ],
+    [
+      "little",
+      "piece"
+    ],
+    [
+      "little",
+      "plutonium"
+    ],
+    [
+      "little",
+      "present"
+    ],
+    [
+      "little",
+      "pumpkin"
+    ],
+    [
+      "little",
+      "son"
+    ],
+    [
+      "little",
+      "souvenir"
+    ],
+    [
+      "little",
+      "thing"
     ],
     [
       "little",
@@ -302,11 +1902,79 @@ words = {
     ],
     [
       "living",
+      "folk"
+    ],
+    [
+      "living",
       "room"
+    ],
+    [
+      "loaded",
+      "gun"
+    ],
+    [
+      "loading",
+      "stuff"
+    ],
+    [
+      "log",
+      "will"
+    ],
+    [
+      "lone",
+      "racer"
+    ],
+    [
+      "long",
+      "approach"
+    ],
+    [
+      "long",
+      "beaker"
+    ],
+    [
+      "long",
+      "coat"
+    ],
+    [
+      "long",
+      "device"
+    ],
+    [
+      "long",
+      "gun"
     ],
     [
       "long",
       "have"
+    ],
+    [
+      "long",
+      "level"
+    ],
+    [
+      "long",
+      "rifle"
+    ],
+    [
+      "long",
+      "run"
+    ],
+    [
+      "long",
+      "silence"
+    ],
+    [
+      "long",
+      "stretch"
+    ],
+    [
+      "long",
+      "time"
+    ],
+    [
+      "long",
+      "walk"
     ],
     [
       "looking",
@@ -317,36 +1985,260 @@ words = {
       "beyond"
     ],
     [
+      "looking",
+      "cowboy"
+    ],
+    [
+      "looking",
+      "guy"
+    ],
+    [
+      "loud",
+      "boom"
+    ],
+    [
+      "lovely",
+      "here"
+    ],
+    [
+      "low",
+      "price"
+    ],
+    [
+      "loyal",
+      "friend"
+    ],
+    [
+      "lucky",
+      "day"
+    ],
+    [
+      "lucky",
+      "winning"
+    ],
+    [
+      "lying",
+      "sleeping"
+    ],
+    [
+      "made",
+      "out"
+    ],
+    [
       "made",
       "you"
+    ],
+    [
+      "main",
+      "line"
     ],
     [
       "major",
       "embarrassment"
     ],
     [
+      "major",
+      "paradox"
+    ],
+    [
+      "major",
+      "sports"
+    ],
+    [
+      "man",
+      "enough"
+    ],
+    [
+      "man",
+      "here"
+    ],
+    [
+      "man",
+      "points"
+    ],
+    [
+      "man",
+      "shakes"
+    ],
+    [
+      "man",
+      "who"
+    ],
+    [
       "man",
       "you"
+    ],
+    [
+      "many",
+      "kids"
+    ],
+    [
+      "many",
+      "times"
+    ],
+    [
+      "mature",
+      "guys"
     ],
     [
       "mean",
       "how"
     ],
     [
+      "mean",
+      "looking"
+    ],
+    [
+      "mean",
+      "one"
+    ],
+    [
+      "mean",
+      "you"
+    ],
+    [
+      "meet",
+      "anybody"
+    ],
+    [
+      "meet",
+      "you"
+    ],
+    [
       "melting",
       "stuff"
+    ],
+    [
+      "middle",
+      "name"
+    ],
+    [
+      "million",
+      "bucks"
+    ],
+    [
+      "million",
+      "dollars"
+    ],
+    [
+      "million",
+      "times"
+    ],
+    [
+      "minor",
+      "warm"
     ],
     [
       "minute",
       "behind"
     ],
     [
+      "miserable",
+      "flying"
+    ],
+    [
+      "model",
+      "car"
+    ],
+    [
+      "model",
+      "railroad"
+    ],
+    [
+      "model",
+      "train"
+    ],
+    [
+      "modern",
+      "day"
+    ],
+    [
+      "momentary",
+      "amnesia"
+    ],
+    [
+      "monetary",
+      "possibilities"
+    ],
+    [
+      "more",
+      "gas"
+    ],
+    [
+      "more",
+      "lets"
+    ],
+    [
+      "more",
+      "minutes"
+    ],
+    [
+      "more",
+      "seconds"
+    ],
+    [
+      "more",
+      "thing"
+    ],
+    [
+      "more",
+      "things"
+    ],
+    [
+      "more",
+      "time"
+    ],
+    [
+      "morning",
+      "air"
+    ],
+    [
+      "motor",
+      "will"
+    ],
+    [
+      "moving",
+      "train"
+    ],
+    [
+      "much",
+      "hurt"
+    ],
+    [
+      "much",
+      "left"
+    ],
+    [
       "much",
       "money"
     ],
     [
+      "much",
+      "worse"
+    ],
+    [
+      "mural",
+      "painting"
+    ],
+    [
+      "must",
+      "have"
+    ],
+    [
       "must",
       "know"
+    ],
+    [
+      "must",
+      "let"
+    ],
+    [
+      "must",
+      "still"
+    ],
+    [
+      "named",
+      "Clara"
     ],
     [
       "named",
@@ -355,6 +2247,50 @@ words = {
     [
       "natural",
       "course"
+    ],
+    [
+      "near",
+      "model"
+    ],
+    [
+      "new",
+      "book"
+    ],
+    [
+      "new",
+      "clock"
+    ],
+    [
+      "new",
+      "device"
+    ],
+    [
+      "new",
+      "gauge"
+    ],
+    [
+      "new",
+      "hat"
+    ],
+    [
+      "new",
+      "matchbooks"
+    ],
+    [
+      "new",
+      "school"
+    ],
+    [
+      "new",
+      "suit"
+    ],
+    [
+      "new",
+      "time"
+    ],
+    [
+      "new",
+      "tires"
     ],
     [
       "new",
@@ -366,6 +2302,22 @@ words = {
     ],
     [
       "next",
+      "century"
+    ],
+    [
+      "next",
+      "day"
+    ],
+    [
+      "next",
+      "green"
+    ],
+    [
+      "next",
+      "train"
+    ],
+    [
+      "next",
       "twenty-five"
     ],
     [
@@ -374,19 +2326,67 @@ words = {
     ],
     [
       "nice",
+      "going"
+    ],
+    [
+      "nice",
+      "name"
+    ],
+    [
+      "nice",
+      "pants"
+    ],
+    [
+      "nice",
       "round"
+    ],
+    [
+      "nice",
+      "telescope"
     ],
     [
       "nine",
       "hours"
     ],
     [
+      "nineteenth",
+      "century"
+    ],
+    [
+      "normal",
+      "questioning"
+    ],
+    [
+      "normal",
+      "shooting"
+    ],
+    [
+      "noticed",
+      "slides"
+    ],
+    [
       "noticed",
       "you"
     ],
     [
+      "notorious",
+      "gunman"
+    ],
+    [
       "nuclear",
       "reaction"
+    ],
+    [
+      "obvious",
+      "danger"
+    ],
+    [
+      "obvious",
+      "quiet"
+    ],
+    [
+      "off",
+      "grave"
     ],
     [
       "off",
@@ -394,15 +2394,127 @@ words = {
     ],
     [
       "okay",
+      "Jennifer"
+    ],
+    [
+      "okay",
       "you"
+    ],
+    [
+      "old",
+      "Indian"
+    ],
+    [
+      "old",
+      "bag"
+    ],
+    [
+      "old",
+      "codger"
+    ],
+    [
+      "old",
+      "family"
+    ],
+    [
+      "old",
+      "lady"
     ],
     [
       "old",
       "man"
     ],
     [
+      "old",
+      "men"
+    ],
+    [
+      "old",
+      "newspaper"
+    ],
+    [
+      "old",
+      "newspapers"
+    ],
+    [
+      "old",
+      "road"
+    ],
+    [
+      "old",
+      "timer"
+    ],
+    [
+      "older",
+      "self"
+    ],
+    [
+      "once",
+      "more"
+    ],
+    [
+      "one",
+      "bullet"
+    ],
+    [
+      "one",
+      "chance"
+    ],
+    [
+      "one",
+      "citizen"
+    ],
+    [
+      "one",
+      "damn"
+    ],
+    [
       "one",
       "day"
+    ],
+    [
+      "one",
+      "direction"
+    ],
+    [
+      "one",
+      "end"
+    ],
+    [
+      "one",
+      "evening"
+    ],
+    [
+      "one",
+      "event"
+    ],
+    [
+      "one",
+      "here"
+    ],
+    [
+      "one",
+      "horse"
+    ],
+    [
+      "one",
+      "last"
+    ],
+    [
+      "one",
+      "little"
+    ],
+    [
+      "one",
+      "man"
+    ],
+    [
+      "one",
+      "minute"
+    ],
+    [
+      "one",
+      "more"
     ],
     [
       "one",
@@ -414,7 +2526,23 @@ words = {
     ],
     [
       "one",
+      "punch"
+    ],
+    [
+      "one",
       "rejection"
+    ],
+    [
+      "one",
+      "second"
+    ],
+    [
+      "one",
+      "step"
+    ],
+    [
+      "one",
+      "suits"
     ],
     [
       "one",
@@ -422,11 +2550,55 @@ words = {
     ],
     [
       "one",
+      "thing"
+    ],
+    [
+      "one",
       "trip"
     ],
     [
       "one",
+      "way"
+    ],
+    [
+      "one",
+      "week"
+    ],
+    [
+      "one",
       "who"
+    ],
+    [
+      "one",
+      "will"
+    ],
+    [
+      "only",
+      "chance"
+    ],
+    [
+      "only",
+      "cut"
+    ],
+    [
+      "only",
+      "first"
+    ],
+    [
+      "only",
+      "hope"
+    ],
+    [
+      "only",
+      "light"
+    ],
+    [
+      "only",
+      "likes"
+    ],
+    [
+      "only",
+      "need"
     ],
     [
       "only",
@@ -434,15 +2606,131 @@ words = {
     ],
     [
       "only",
+      "party"
+    ],
+    [
+      "only",
       "power"
+    ],
+    [
+      "only",
+      "problem"
+    ],
+    [
+      "only",
+      "regret"
+    ],
+    [
+      "only",
+      "risks"
     ],
     [
       "only",
       "way"
     ],
     [
+      "open",
+      "country"
+    ],
+    [
+      "open",
+      "door"
+    ],
+    [
+      "open",
+      "field"
+    ],
+    [
+      "open",
+      "wide"
+    ],
+    [
+      "opposite",
+      "direction"
+    ],
+    [
+      "ordinary",
+      "gasoline"
+    ],
+    [
+      "original",
+      "direction"
+    ],
+    [
+      "original",
+      "position"
+    ],
+    [
+      "other",
+      "cars"
+    ],
+    [
+      "other",
+      "couples"
+    ],
+    [
+      "other",
+      "day"
+    ],
+    [
       "other",
       "end"
+    ],
+    [
+      "other",
+      "great"
+    ],
+    [
+      "other",
+      "half"
+    ],
+    [
+      "other",
+      "night"
+    ],
+    [
+      "other",
+      "people"
+    ],
+    [
+      "other",
+      "self"
+    ],
+    [
+      "other",
+      "side"
+    ],
+    [
+      "other",
+      "six"
+    ],
+    [
+      "other",
+      "time"
+    ],
+    [
+      "other",
+      "transportation"
+    ],
+    [
+      "other",
+      "two"
+    ],
+    [
+      "other",
+      "way"
+    ],
+    [
+      "other",
+      "women"
+    ],
+    [
+      "other",
+      "you"
+    ],
+    [
+      "out",
+      "away"
     ],
     [
       "out",
@@ -450,15 +2738,59 @@ words = {
     ],
     [
       "out",
+      "fine"
+    ],
+    [
+      "out",
+      "here"
+    ],
+    [
+      "out",
       "load"
+    ],
+    [
+      "out",
+      "past"
+    ],
+    [
+      "out",
+      "seeds"
     ],
     [
       "out",
       "there"
     ],
     [
+      "out",
+      "two"
+    ],
+    [
+      "out",
+      "whiskey"
+    ],
+    [
+      "outer",
+      "space"
+    ],
+    [
       "over",
       "first"
+    ],
+    [
+      "over",
+      "here"
+    ],
+    [
+      "over",
+      "near"
+    ],
+    [
+      "over",
+      "photograph"
+    ],
+    [
+      "over",
+      "tables"
     ],
     [
       "over",
@@ -470,7 +2802,51 @@ words = {
     ],
     [
       "own",
+      "brain"
+    ],
+    [
+      "own",
+      "business"
+    ],
+    [
+      "own",
+      "destiny"
+    ],
+    [
+      "own",
+      "forehead"
+    ],
+    [
+      "own",
       "future"
+    ],
+    [
+      "own",
+      "galaxy"
+    ],
+    [
+      "own",
+      "house"
+    ],
+    [
+      "own",
+      "man"
+    ],
+    [
+      "own",
+      "neck"
+    ],
+    [
+      "own",
+      "personal"
+    ],
+    [
+      "own",
+      "throat"
+    ],
+    [
+      "own",
+      "version"
     ],
     [
       "owned",
@@ -485,12 +2861,112 @@ words = {
       "coming"
     ],
     [
+      "particular",
+      "date"
+    ],
+    [
+      "pass",
+      "out"
+    ],
+    [
+      "past",
+      "eight"
+    ],
+    [
       "past",
       "few"
     ],
     [
+      "pearly",
+      "whites"
+    ],
+    [
+      "peculiar",
+      "yelling"
+    ],
+    [
+      "perfect",
+      "place"
+    ],
+    [
+      "perfect",
+      "sense"
+    ],
+    [
+      "perfect",
+      "working"
+    ],
+    [
+      "personal",
+      "affairs"
+    ],
+    [
+      "personal",
+      "benefit"
+    ],
+    [
+      "personal",
+      "matter"
+    ],
+    [
+      "physical",
+      "type"
+    ],
+    [
+      "pink",
+      "outfit"
+    ],
+    [
+      "pink",
+      "stuff"
+    ],
+    [
+      "poetic",
+      "justice"
+    ],
+    [
+      "pointed",
+      "straight"
+    ],
+    [
+      "poor",
+      "fella"
+    ],
+    [
+      "pops",
+      "out"
+    ],
+    [
       "portable",
       "television"
+    ],
+    [
+      "positive",
+      "terminal"
+    ],
+    [
+      "possible",
+      "factor"
+    ],
+    [
+      "post",
+      "office"
+    ],
+    [
+      "pouring",
+      "out"
+    ],
+    [
+      "pouring",
+      "purple"
+    ],
+    [
+      "pouring",
+      "rain"
+    ],
+    [
+      "power",
+      "left"
     ],
     [
       "power",
@@ -501,28 +2977,148 @@ words = {
       "mayor"
     ],
     [
+      "powerful",
+      "men"
+    ],
+    [
       "practical",
       "jokes"
+    ],
+    [
+      "precise",
+      "records"
     ],
     [
       "pretty",
       "hard"
     ],
     [
+      "pretty",
+      "heavy"
+    ],
+    [
+      "private",
+      "street"
+    ],
+    [
+      "profound",
+      "effect"
+    ],
+    [
+      "proved",
+      "impossible"
+    ],
+    [
+      "public",
+      "library"
+    ],
+    [
+      "published",
+      "ten"
+    ],
+    [
+      "pulled",
+      "away"
+    ],
+    [
+      "purple",
+      "liquid"
+    ],
+    [
       "purple",
       "underwear"
+    ],
+    [
+      "quaint",
+      "little"
+    ],
+    [
+      "queer",
+      "position"
+    ],
+    [
+      "quiet",
+      "excitement"
+    ],
+    [
+      "random",
+      "intervals"
+    ],
+    [
+      "read",
+      "Jules"
     ],
     [
       "real",
       "attitude"
     ],
     [
+      "real",
+      "difference"
+    ],
+    [
+      "real",
+      "problem"
+    ],
+    [
+      "real",
+      "reason"
+    ],
+    [
+      "rear",
+      "display"
+    ],
+    [
+      "rear",
+      "view"
+    ],
+    [
+      "record",
+      "company"
+    ],
+    [
+      "recreational",
+      "reading"
+    ],
+    [
       "red-letter",
       "date"
     ],
     [
+      "reflex",
+      "action"
+    ],
+    [
+      "regular",
+      "intervals"
+    ],
+    [
+      "retirement",
+      "years"
+    ],
+    [
       "rhythmic",
       "ceremonial"
+    ],
+    [
+      "rich",
+      "rock"
+    ],
+    [
+      "ridiculous",
+      "look"
+    ],
+    [
+      "ridiculous",
+      "pink"
+    ],
+    [
+      "right",
+      "answer"
+    ],
+    [
+      "right",
+      "away"
     ],
     [
       "right",
@@ -533,8 +3129,108 @@ words = {
       "now"
     ],
     [
+      "right",
+      "then"
+    ],
+    [
+      "right",
+      "there"
+    ],
+    [
+      "right",
+      "thing"
+    ],
+    [
+      "right",
+      "touch"
+    ],
+    [
+      "right",
+      "where"
+    ],
+    [
+      "right",
+      "you"
+    ],
+    [
+      "ringing",
+      "but"
+    ],
+    [
+      "ripple",
+      "effect"
+    ],
+    [
       "ritual",
       "coming"
+    ],
+    [
+      "road",
+      "car"
+    ],
+    [
+      "rolling",
+      "there"
+    ],
+    [
+      "romantic",
+      "dream"
+    ],
+    [
+      "romantic",
+      "nonsense"
+    ],
+    [
+      "rough",
+      "neighborhood"
+    ],
+    [
+      "round",
+      "number"
+    ],
+    [
+      "running",
+      "two"
+    ],
+    [
+      "same",
+      "dance"
+    ],
+    [
+      "same",
+      "gun"
+    ],
+    [
+      "same",
+      "moment"
+    ],
+    [
+      "same",
+      "place"
+    ],
+    [
+      "same",
+      "time"
+    ],
+    [
+      "satisfactory",
+      "answer"
+    ],
+    [
+      "scattered",
+      "clouds"
+    ],
+    [
+      "scheduled",
+      "times"
+    ],
+    [
+      "schematic",
+      "diagram"
+    ],
+    [
+      "scientific",
+      "rationale"
     ],
     [
       "second",
@@ -542,19 +3238,115 @@ words = {
     ],
     [
       "seen",
+      "being"
+    ],
+    [
+      "seen",
+      "one"
+    ],
+    [
+      "seen",
       "purple"
+    ],
+    [
+      "seen",
+      "teeth"
+    ],
+    [
+      "seen",
+      "you"
+    ],
+    [
+      "self",
+      "confidence"
+    ],
+    [
+      "self",
+      "see"
+    ],
+    [
+      "self",
+      "will"
+    ],
+    [
+      "sent",
+      "back"
+    ],
+    [
+      "sent",
+      "you"
     ],
     [
       "set",
       "all"
     ],
     [
+      "seven",
+      "fingers"
+    ],
+    [
       "shiny",
       "bomb"
     ],
     [
+      "short",
+      "circuits"
+    ],
+    [
+      "short",
+      "pier"
+    ],
+    [
+      "short",
+      "temper"
+    ],
+    [
+      "shot",
+      "glass"
+    ],
+    [
+      "shot",
+      "guns"
+    ],
+    [
+      "shot",
+      "tomorrow"
+    ],
+    [
+      "side",
+      "tunnel"
+    ],
+    [
+      "sign",
+      "outside"
+    ],
+    [
+      "sign",
+      "reading"
+    ],
+    [
+      "sign",
+      "reads"
+    ],
+    [
+      "silent",
+      "gaze"
+    ],
+    [
+      "silver",
+      "mine"
+    ],
+    [
+      "silvery",
+      "flowing"
+    ],
+    [
       "sister",
       "will"
+    ],
+    [
+      "six",
+      "years"
     ],
     [
       "skull",
@@ -565,8 +3357,44 @@ words = {
       "bags"
     ],
     [
+      "sliding",
+      "down"
+    ],
+    [
       "slight",
       "possibility"
+    ],
+    [
+      "small",
+      "building"
+    ],
+    [
+      "small",
+      "cave"
+    ],
+    [
+      "small",
+      "gate"
+    ],
+    [
+      "small",
+      "glass"
+    ],
+    [
+      "small",
+      "pond"
+    ],
+    [
+      "small",
+      "shot"
+    ],
+    [
+      "small",
+      "sign"
+    ],
+    [
+      "some",
+      "binoculars"
     ],
     [
       "some",
@@ -574,7 +3402,55 @@ words = {
     ],
     [
       "some",
+      "coffee"
+    ],
+    [
+      "some",
       "extra"
+    ],
+    [
+      "some",
+      "fun"
+    ],
+    [
+      "some",
+      "garbage"
+    ],
+    [
+      "some",
+      "kind"
+    ],
+    [
+      "some",
+      "light"
+    ],
+    [
+      "some",
+      "lightning"
+    ],
+    [
+      "some",
+      "men"
+    ],
+    [
+      "some",
+      "money"
+    ],
+    [
+      "some",
+      "more"
+    ],
+    [
+      "some",
+      "newspapers"
+    ],
+    [
+      "some",
+      "people"
+    ],
+    [
+      "some",
+      "point"
     ],
     [
       "some",
@@ -585,8 +3461,68 @@ words = {
       "sort"
     ],
     [
+      "some",
+      "time"
+    ],
+    [
+      "some",
+      "trees"
+    ],
+    [
+      "some",
+      "wake"
+    ],
+    [
+      "some",
+      "whoppers"
+    ],
+    [
+      "sonic",
+      "booms"
+    ],
+    [
+      "sore",
+      "eyes"
+    ],
+    [
+      "special",
+      "place"
+    ],
+    [
+      "special",
+      "today"
+    ],
+    [
       "specialized",
       "weather"
+    ],
+    [
+      "specific",
+      "circumstances"
+    ],
+    [
+      "spectacled",
+      "man"
+    ],
+    [
+      "spectacular",
+      "wreck"
+    ],
+    [
+      "spent",
+      "all"
+    ],
+    [
+      "spent",
+      "weeks"
+    ],
+    [
+      "split",
+      "tombstone"
+    ],
+    [
+      "sporting",
+      "event"
     ],
     [
       "standard",
@@ -597,12 +3533,144 @@ words = {
       "here"
     ],
     [
+      "state",
+      "penitentiary"
+    ],
+    [
+      "steep",
+      "hill"
+    ],
+    [
+      "still",
+      "following"
+    ],
+    [
       "still",
       "hanging"
     ],
     [
+      "still",
+      "inside"
+    ],
+    [
+      "still",
+      "looks"
+    ],
+    [
+      "still",
+      "out"
+    ],
+    [
+      "still",
+      "sleeping"
+    ],
+    [
+      "still",
+      "ticking"
+    ],
+    [
+      "still",
+      "work"
+    ],
+    [
+      "stooped",
+      "down"
+    ],
+    [
+      "stopped",
+      "crying"
+    ],
+    [
+      "store",
+      "near"
+    ],
+    [
+      "store",
+      "saleswoman"
+    ],
+    [
+      "straight",
+      "answer"
+    ],
+    [
+      "straight",
+      "down"
+    ],
+    [
+      "straight",
+      "stretch"
+    ],
+    [
+      "straight",
+      "weren't"
+    ],
+    [
+      "strait",
+      "out"
+    ],
+    [
       "strange",
       "young"
+    ],
+    [
+      "striking",
+      "resemblance"
+    ],
+    [
+      "stuck",
+      "back"
+    ],
+    [
+      "stupid",
+      "enough"
+    ],
+    [
+      "stupid",
+      "name"
+    ],
+    [
+      "sudden",
+      "burst"
+    ],
+    [
+      "sudden",
+      "conviction"
+    ],
+    [
+      "suitable",
+      "replacement"
+    ],
+    [
+      "sure",
+      "hope"
+    ],
+    [
+      "sure",
+      "set"
+    ],
+    [
+      "suspended",
+      "animation"
+    ],
+    [
+      "sweet",
+      "girl"
+    ],
+    [
+      "swinging",
+      "bench"
+    ],
+    [
+      "switch",
+      "track"
+    ],
+    [
+      "taking",
+      "pictures"
+    ],
+    [
+      "tall",
+      "man"
     ],
     [
       "telling",
@@ -610,27 +3678,155 @@ words = {
     ],
     [
       "temporal",
+      "displacement"
+    ],
+    [
+      "temporal",
+      "event"
+    ],
+    [
+      "temporal",
       "experiment"
+    ],
+    [
+      "temporal",
+      "junction"
+    ],
+    [
+      "ten",
+      "feet"
+    ],
+    [
+      "ten",
+      "years"
     ],
     [
       "terrorist",
       "group"
     ],
     [
+      "then",
+      "Seamus"
+    ],
+    [
+      "then",
+      "goes"
+    ],
+    [
+      "then",
+      "hovers"
+    ],
+    [
+      "then",
+      "sees"
+    ],
+    [
+      "then",
+      "stands"
+    ],
+    [
+      "then",
+      "stutters"
+    ],
+    [
+      "then",
+      "takes"
+    ],
+    [
+      "then",
+      "tell"
+    ],
+    [
+      "then",
+      "there"
+    ],
+    [
+      "then",
+      "turns"
+    ],
+    [
+      "thinking",
+      "fourth"
+    ],
+    [
       "thirty",
       "years"
+    ],
+    [
+      "three",
+      "days"
+    ],
+    [
+      "three",
+      "seconds"
+    ],
+    [
+      "three",
+      "will"
+    ],
+    [
+      "through",
+      "here"
+    ],
+    [
+      "through",
+      "outer"
+    ],
+    [
+      "through",
+      "time"
+    ],
+    [
+      "thrown",
+      "back"
+    ],
+    [
+      "tight",
+      "schedule"
+    ],
+    [
+      "tin",
+      "foil"
+    ],
+    [
+      "tiny",
+      "photo"
     ],
     [
       "told",
       "you"
     ],
     [
+      "torn",
+      "piece"
+    ],
+    [
+      "tough",
+      "hombre"
+    ],
+    [
       "tracked",
       "you"
     ],
     [
+      "transported",
+      "forward"
+    ],
+    [
+      "turned",
+      "out"
+    ],
+    [
+      "turning",
+      "back"
+    ],
+    [
       "twenty",
       "five"
+    ],
+    [
+      "twenty-first",
+      "century"
     ],
     [
       "twenty-five",
@@ -650,7 +3846,27 @@ words = {
     ],
     [
       "two",
+      "days"
+    ],
+    [
+      "two",
+      "hours"
+    ],
+    [
+      "two",
       "lamp"
+    ],
+    [
+      "two",
+      "mouthfuls"
+    ],
+    [
+      "two",
+      "possibilities"
+    ],
+    [
+      "two",
+      "teenagers"
     ],
     [
       "two",
@@ -658,11 +3874,55 @@ words = {
     ],
     [
       "two",
+      "thousand"
+    ],
+    [
+      "two",
       "weeks"
+    ],
+    [
+      "ugly",
+      "hat"
+    ],
+    [
+      "unconscious",
+      "Jennifer"
+    ],
+    [
+      "under",
+      "arrest"
+    ],
+    [
+      "under",
+      "here"
+    ],
+    [
+      "unfavorable",
+      "story"
+    ],
+    [
+      "unnecessary",
+      "time"
     ],
     [
       "used",
       "pinball"
+    ],
+    [
+      "vast",
+      "empire"
+    ],
+    [
+      "very",
+      "close"
+    ],
+    [
+      "very",
+      "fabric"
+    ],
+    [
+      "very",
+      "familiar"
     ],
     [
       "very",
@@ -670,11 +3930,75 @@ words = {
     ],
     [
       "very",
+      "funny"
+    ],
+    [
+      "very",
       "good"
+    ],
+    [
+      "very",
+      "hard"
+    ],
+    [
+      "very",
+      "much"
+    ],
+    [
+      "very",
+      "nice"
+    ],
+    [
+      "very",
+      "peculiar"
+    ],
+    [
+      "very",
+      "well"
+    ],
+    [
+      "virtual",
+      "waiter"
     ],
     [
       "walking",
       "all"
+    ],
+    [
+      "walking",
+      "away"
+    ],
+    [
+      "walking",
+      "back"
+    ],
+    [
+      "war",
+      "Indians"
+    ],
+    [
+      "warm",
+      "feelings"
+    ],
+    [
+      "warm",
+      "front"
+    ],
+    [
+      "wearing",
+      "nothing"
+    ],
+    [
+      "weather",
+      "experiment"
+    ],
+    [
+      "weather",
+      "service"
+    ],
+    [
+      "weird",
+      "grin"
     ],
     [
       "well",
@@ -689,12 +4013,120 @@ words = {
       "precautions"
     ],
     [
+      "whatever",
+      "you"
+    ],
+    [
       "white",
       "line"
     ],
     [
+      "white",
+      "pajama"
+    ],
+    [
+      "whole",
+      "car"
+    ],
+    [
+      "whole",
+      "life"
+    ],
+    [
+      "whole",
+      "motor"
+    ],
+    [
+      "whole",
+      "place"
+    ],
+    [
+      "whole",
+      "story"
+    ],
+    [
+      "whole",
+      "thing"
+    ],
+    [
+      "wide",
+      "open"
+    ],
+    [
+      "wild-eyed",
+      "old"
+    ],
+    [
+      "winning",
+      "streak"
+    ],
+    [
+      "wonderful",
+      "way"
+    ],
+    [
+      "wooden",
+      "planks"
+    ],
+    [
+      "wooden",
+      "sign"
+    ],
+    [
+      "worked",
+      "great"
+    ],
+    [
+      "working",
+      "order"
+    ],
+    [
+      "world",
+      "series"
+    ],
+    [
+      "worn",
+      "out"
+    ],
+    [
+      "worse",
+      "places"
+    ],
+    [
+      "worst",
+      "nightmare"
+    ],
+    [
+      "wrong",
+      "hands"
+    ],
+    [
+      "wrong",
+      "house"
+    ],
+    [
+      "wrong",
+      "year"
+    ],
+    [
+      "yelling",
+      "all"
+    ],
+    [
+      "yelling",
+      "noises"
+    ],
+    [
+      "young",
+      "boys"
+    ],
+    [
       "young",
       "man"
+    ],
+    [
+      "zero",
+      "seconds"
     ]
   ],
   "adjectives": [
