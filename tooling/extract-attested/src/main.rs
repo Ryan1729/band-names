@@ -56,10 +56,20 @@ fn main() -> Res<()> {
 
     let pre_count = words.attested.len();
 
+    let pattern = |c: char|
+        c.is_whitespace()
+        || c == '.'
+        || c == '!'
+        || c == '?'
+        || c == '"'
+        || c == ':'
+        || c == ';'
+        ;
+
     for line in std::io::stdin().lines() {
         let line = line?;
 
-        let mut iter = line.split_whitespace().peekable();
+        let mut iter = line.split(pattern).peekable();
         while let Some(poss_adj) = iter.next() {
             if let Some(poss_noun) = iter.peek() {
                 let poss_noun: &str = poss_noun;
