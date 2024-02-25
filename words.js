@@ -5,6 +5,10 @@ words = {
       "silver"
     ],
     [
+      "above",
+      "all"
+    ],
+    [
       "absolute",
       "dream"
     ],
@@ -19,6 +23,10 @@ words = {
     [
       "afraid",
       "you"
+    ],
+    [
+      "after",
+      "all"
     ],
     [
       "after",
@@ -74,7 +82,19 @@ words = {
     ],
     [
       "all",
+      "hell"
+    ],
+    [
+      "all",
+      "kids"
+    ],
+    [
+      "all",
       "lawyers"
+    ],
+    [
+      "all",
+      "movie"
     ],
     [
       "all",
@@ -133,6 +153,10 @@ words = {
       "rhythm"
     ],
     [
+      "alright",
+      "then"
+    ],
+    [
       "altered",
       "history"
     ],
@@ -166,6 +190,10 @@ words = {
     ],
     [
       "another",
+      "old"
+    ],
+    [
+      "another",
       "one"
     ],
     [
@@ -185,6 +213,10 @@ words = {
       "service"
     ],
     [
+      "antique",
+      "store"
+    ],
+    [
       "any",
       "attention"
     ],
@@ -199,6 +231,10 @@ words = {
     [
       "any",
       "events"
+    ],
+    [
+      "any",
+      "girl"
     ],
     [
       "any",
@@ -270,6 +306,10 @@ words = {
     ],
     [
       "baby",
+      "joey"
+    ],
+    [
+      "baby",
       "takes"
     ],
     [
@@ -326,7 +366,7 @@ words = {
     ],
     [
       "beat",
-      "Iowa"
+      "iowa"
     ],
     [
       "beautiful",
@@ -350,7 +390,7 @@ words = {
     ],
     [
       "beloved",
-      "Clara"
+      "clara"
     ],
     [
       "best",
@@ -486,7 +526,15 @@ words = {
     ],
     [
       "brother",
+      "joey"
+    ],
+    [
+      "brother",
       "named"
+    ],
+    [
+      "brown",
+      "back"
     ],
     [
       "brown",
@@ -517,6 +565,10 @@ words = {
       "damage"
     ],
     [
+      "bull",
+      "now"
+    ],
+    [
       "buried",
       "here"
     ],
@@ -534,7 +586,15 @@ words = {
     ],
     [
       "called",
-      "Copernicus"
+      "copernicus"
+    ],
+    [
+      "called",
+      "daddy"
+    ],
+    [
+      "called",
+      "doctor"
     ],
     [
       "called",
@@ -555,6 +615,10 @@ words = {
     [
       "carved",
       "tombstones"
+    ],
+    [
+      "catholic",
+      "fashion"
     ],
     [
       "ceremonial",
@@ -629,6 +693,10 @@ words = {
       "wimp"
     ],
     [
+      "compressed",
+      "wood"
+    ],
+    [
       "concerned",
       "people"
     ],
@@ -682,7 +750,7 @@ words = {
     ],
     [
       "crushed",
-      "Minnesota"
+      "minnesota"
     ],
     [
       "crying",
@@ -718,6 +786,10 @@ words = {
     ],
     [
       "damn",
+      "damn"
+    ],
+    [
+      "damn",
       "fool"
     ],
     [
@@ -730,7 +802,23 @@ words = {
     ],
     [
       "damn",
+      "right"
+    ],
+    [
+      "damn",
       "thing"
+    ],
+    [
+      "damned",
+      "kids"
+    ],
+    [
+      "dark",
+      "ages"
+    ],
+    [
+      "darkened",
+      "room"
     ],
     [
       "darling",
@@ -738,7 +826,7 @@ words = {
     ],
     [
       "dead",
-      "Chinee"
+      "chinee"
     ],
     [
       "dead",
@@ -753,12 +841,16 @@ words = {
       "forever"
     ],
     [
+      "dear",
+      "doctor"
+    ],
+    [
       "defeated",
-      "Washington"
+      "washington"
     ],
     [
       "deputy",
-      "Marshall"
+      "marshall"
     ],
     [
       "determined",
@@ -767,6 +859,10 @@ words = {
     [
       "different",
       "pieces"
+    ],
+    [
+      "discordant",
+      "music"
     ],
     [
       "distant",
@@ -793,8 +889,16 @@ words = {
       "six"
     ],
     [
+      "down",
+      "young"
+    ],
+    [
       "dressed",
       "you"
+    ],
+    [
+      "driving",
+      "doc"
     ],
     [
       "driving",
@@ -809,8 +913,16 @@ words = {
       "pedestrian"
     ],
     [
+      "drying",
+      "mode"
+    ],
+    [
       "due",
       "till"
+    ],
+    [
+      "each",
+      "detonation"
     ],
     [
       "each",
@@ -930,6 +1042,10 @@ words = {
     ],
     [
       "every",
+      "kid"
+    ],
+    [
+      "every",
       "major"
     ],
     [
@@ -973,6 +1089,14 @@ words = {
       "does"
     ],
     [
+      "far",
+      "out"
+    ],
+    [
+      "farm",
+      "dinner"
+    ],
+    [
       "fashioned",
       "video"
     ],
@@ -983,6 +1107,10 @@ words = {
     [
       "favorite",
       "television"
+    ],
+    [
+      "fearless",
+      "frank"
     ],
     [
       "feeling",
@@ -1046,15 +1174,15 @@ words = {
     ],
     [
       "fine",
-      "Kentucky"
-    ],
-    [
-      "fine",
       "hat"
     ],
     [
       "fine",
       "horses"
+    ],
+    [
+      "fine",
+      "kentucky"
     ],
     [
       "first",
@@ -1105,6 +1233,10 @@ words = {
       "time"
     ],
     [
+      "first",
+      "western"
+    ],
+    [
       "five",
       "more"
     ],
@@ -1150,11 +1282,19 @@ words = {
     ],
     [
       "four",
+      "cans"
+    ],
+    [
+      "four",
       "point"
     ],
     [
       "framed",
       "photo"
+    ],
+    [
+      "frank",
+      "fargo"
     ],
     [
       "fresh",
@@ -1206,11 +1346,19 @@ words = {
     ],
     [
       "future",
+      "part"
+    ],
+    [
+      "future",
       "self"
     ],
     [
       "future",
       "son"
+    ],
+    [
+      "future",
+      "theme"
     ],
     [
       "future",
@@ -1294,6 +1442,10 @@ words = {
     ],
     [
       "good",
+      "evening"
+    ],
+    [
+      "good",
       "face-lift"
     ],
     [
@@ -1314,7 +1466,15 @@ words = {
     ],
     [
       "good",
+      "looking"
+    ],
+    [
+      "good",
       "luck"
+    ],
+    [
+      "good",
+      "morning"
     ],
     [
       "good",
@@ -1346,7 +1506,15 @@ words = {
     ],
     [
       "great",
+      "doc"
+    ],
+    [
+      "great",
       "flash"
+    ],
+    [
+      "great",
+      "flick"
     ],
     [
       "great",
@@ -1359,6 +1527,10 @@ words = {
     [
       "great",
       "mystery"
+    ],
+    [
+      "great",
+      "scott"
     ],
     [
       "greatest",
@@ -1391,6 +1563,10 @@ words = {
     [
       "happy",
       "living"
+    ],
+    [
+      "happy",
+      "trails"
     ],
     [
       "hard",
@@ -1430,6 +1606,14 @@ words = {
     ],
     [
       "here",
+      "comes"
+    ],
+    [
+      "here",
+      "lies"
+    ],
+    [
+      "here",
       "now"
     ],
     [
@@ -1442,7 +1626,19 @@ words = {
     ],
     [
       "here",
+      "sign"
+    ],
+    [
+      "here",
       "yesterday"
+    ],
+    [
+      "here",
+      "you"
+    ],
+    [
+      "high",
+      "noon"
     ],
     [
       "high",
@@ -1485,6 +1681,10 @@ words = {
       "hours"
     ],
     [
+      "honest",
+      "joe"
+    ],
+    [
       "horrible",
       "nightmare"
     ],
@@ -1523,6 +1723,10 @@ words = {
     [
       "hurt",
       "man"
+    ],
+    [
+      "iced",
+      "tea"
     ],
     [
       "idiotic",
@@ -1573,12 +1777,24 @@ words = {
       "statement"
     ],
     [
+      "jack",
+      "benny"
+    ],
+    [
       "just",
       "back"
     ],
     [
       "just",
+      "calm"
+    ],
+    [
+      "just",
       "came"
+    ],
+    [
+      "just",
+      "change"
     ],
     [
       "just",
@@ -1587,6 +1803,10 @@ words = {
     [
       "just",
       "ease"
+    ],
+    [
+      "just",
+      "finishing"
     ],
     [
       "just",
@@ -1607,6 +1827,10 @@ words = {
     [
       "just",
       "inside"
+    ],
+    [
+      "just",
+      "keep"
     ],
     [
       "just",
@@ -1654,6 +1878,10 @@ words = {
     ],
     [
       "just",
+      "outside"
+    ],
+    [
+      "just",
       "perfect"
     ],
     [
@@ -1686,7 +1914,23 @@ words = {
     ],
     [
       "just",
+      "then"
+    ],
+    [
+      "just",
       "think"
+    ],
+    [
+      "just",
+      "try"
+    ],
+    [
+      "just",
+      "turn"
+    ],
+    [
+      "just",
+      "wait"
     ],
     [
       "just",
@@ -1699,6 +1943,10 @@ words = {
     [
       "just",
       "want"
+    ],
+    [
+      "just",
+      "watch"
     ],
     [
       "just",
@@ -1778,7 +2026,7 @@ words = {
     ],
     [
       "liked",
-      "Jules"
+      "jules"
     ],
     [
       "liquid",
@@ -1901,6 +2149,10 @@ words = {
       "while"
     ],
     [
+      "little",
+      "will"
+    ],
+    [
       "living",
       "folk"
     ],
@@ -1993,8 +2245,16 @@ words = {
       "guy"
     ],
     [
+      "looking",
+      "out"
+    ],
+    [
       "loud",
       "boom"
+    ],
+    [
+      "lovely",
+      "doc"
     ],
     [
       "lovely",
@@ -2009,6 +2269,10 @@ words = {
       "friend"
     ],
     [
+      "luckiest",
+      "man"
+    ],
+    [
       "lucky",
       "day"
     ],
@@ -2019,6 +2283,10 @@ words = {
     [
       "lying",
       "sleeping"
+    ],
+    [
+      "mad",
+      "dog"
     ],
     [
       "made",
@@ -2051,6 +2319,14 @@ words = {
     [
       "man",
       "here"
+    ],
+    [
+      "man",
+      "jones"
+    ],
+    [
+      "man",
+      "outside"
     ],
     [
       "man",
@@ -2099,6 +2375,10 @@ words = {
     [
       "meet",
       "anybody"
+    ],
+    [
+      "meet",
+      "captain"
     ],
     [
       "meet",
@@ -2198,6 +2478,10 @@ words = {
     ],
     [
       "moving",
+      "away"
+    ],
+    [
+      "moving",
       "train"
     ],
     [
@@ -2215,6 +2499,10 @@ words = {
     [
       "much",
       "worse"
+    ],
+    [
+      "mumbling",
+      "while"
     ],
     [
       "mural",
@@ -2238,11 +2526,19 @@ words = {
     ],
     [
       "named",
-      "Clara"
+      "clara"
     ],
     [
       "named",
-      "Greg"
+      "greg"
+    ],
+    [
+      "named",
+      "griff"
+    ],
+    [
+      "named",
+      "martin"
     ],
     [
       "natural",
@@ -2259,6 +2555,10 @@ words = {
     [
       "new",
       "clock"
+    ],
+    [
+      "new",
+      "colt"
     ],
     [
       "new",
@@ -2298,10 +2598,6 @@ words = {
     ],
     [
       "next",
-      "Saturday"
-    ],
-    [
-      "next",
       "century"
     ],
     [
@@ -2311,6 +2607,10 @@ words = {
     [
       "next",
       "green"
+    ],
+    [
+      "next",
+      "saturday"
     ],
     [
       "next",
@@ -2330,6 +2630,10 @@ words = {
     ],
     [
       "nice",
+      "long"
+    ],
+    [
+      "nice",
       "name"
     ],
     [
@@ -2339,6 +2643,14 @@ words = {
     [
       "nice",
       "round"
+    ],
+    [
+      "nice",
+      "set"
+    ],
+    [
+      "nice",
+      "talking"
     ],
     [
       "nice",
@@ -2377,6 +2689,18 @@ words = {
       "reaction"
     ],
     [
+      "nuclear",
+      "research"
+    ],
+    [
+      "oak",
+      "park"
+    ],
+    [
+      "obnoxious",
+      "kid"
+    ],
+    [
       "obvious",
       "danger"
     ],
@@ -2394,7 +2718,11 @@ words = {
     ],
     [
       "okay",
-      "Jennifer"
+      "jennifer"
+    ],
+    [
+      "okay",
+      "will"
     ],
     [
       "okay",
@@ -2402,11 +2730,15 @@ words = {
     ],
     [
       "old",
-      "Indian"
+      "bag"
     ],
     [
       "old",
-      "bag"
+      "biff"
+    ],
+    [
+      "old",
+      "boot"
     ],
     [
       "old",
@@ -2415,6 +2747,10 @@ words = {
     [
       "old",
       "family"
+    ],
+    [
+      "old",
+      "indian"
     ],
     [
       "old",
@@ -2442,7 +2778,23 @@ words = {
     ],
     [
       "old",
+      "terry"
+    ],
+    [
+      "old",
       "timer"
+    ],
+    [
+      "old",
+      "timers"
+    ],
+    [
+      "old",
+      "west"
+    ],
+    [
+      "old",
+      "western"
     ],
     [
       "older",
@@ -2451,6 +2803,14 @@ words = {
     [
       "once",
       "more"
+    ],
+    [
+      "once",
+      "old"
+    ],
+    [
+      "once",
+      "you"
     ],
     [
       "one",
@@ -2475,6 +2835,10 @@ words = {
     [
       "one",
       "direction"
+    ],
+    [
+      "one",
+      "doc"
     ],
     [
       "one",
@@ -2503,6 +2867,10 @@ words = {
     [
       "one",
       "little"
+    ],
+    [
+      "one",
+      "looks"
     ],
     [
       "one",
@@ -2734,6 +3102,10 @@ words = {
     ],
     [
       "out",
+      "biff"
+    ],
+    [
+      "out",
       "but"
     ],
     [
@@ -2773,6 +3145,14 @@ words = {
       "space"
     ],
     [
+      "outside",
+      "hill"
+    ],
+    [
+      "outside",
+      "saloon"
+    ],
+    [
       "over",
       "first"
     ],
@@ -2790,7 +3170,15 @@ words = {
     ],
     [
       "over",
+      "rice"
+    ],
+    [
+      "over",
       "tables"
+    ],
+    [
+      "over",
+      "texas"
     ],
     [
       "over",
@@ -2877,6 +3265,10 @@ words = {
       "few"
     ],
     [
+      "past",
+      "maple"
+    ],
+    [
       "pearly",
       "whites"
     ],
@@ -2921,6 +3313,10 @@ words = {
       "stuff"
     ],
     [
+      "playing",
+      "johnny"
+    ],
+    [
       "poetic",
       "justice"
     ],
@@ -2931,6 +3327,10 @@ words = {
     [
       "poor",
       "fella"
+    ],
+    [
+      "poor",
+      "martin"
     ],
     [
       "pops",
@@ -2966,6 +3366,10 @@ words = {
     ],
     [
       "power",
+      "laces"
+    ],
+    [
+      "power",
       "left"
     ],
     [
@@ -2989,12 +3393,20 @@ words = {
       "records"
     ],
     [
+      "presto",
+      "logs"
+    ],
+    [
       "pretty",
       "hard"
     ],
     [
       "pretty",
       "heavy"
+    ],
+    [
+      "pretty",
+      "tough"
     ],
     [
       "private",
@@ -3029,6 +3441,10 @@ words = {
       "underwear"
     ],
     [
+      "pushing",
+      "lever"
+    ],
+    [
       "quaint",
       "little"
     ],
@@ -3045,8 +3461,12 @@ words = {
       "intervals"
     ],
     [
+      "random",
+      "scream"
+    ],
+    [
       "read",
-      "Jules"
+      "jules"
     ],
     [
       "real",
@@ -3065,12 +3485,20 @@ words = {
       "reason"
     ],
     [
+      "real",
+      "war"
+    ],
+    [
       "rear",
       "display"
     ],
     [
       "rear",
       "view"
+    ],
+    [
+      "reassuring",
+      "doc"
     ],
     [
       "record",
@@ -3081,8 +3509,16 @@ words = {
       "reading"
     ],
     [
+      "red",
+      "thomas"
+    ],
+    [
       "red-letter",
       "date"
+    ],
+    [
+      "refined",
+      "colt"
     ],
     [
       "reflex",
@@ -3169,6 +3605,10 @@ words = {
       "car"
     ],
     [
+      "road",
+      "tunnel"
+    ],
+    [
       "rolling",
       "there"
     ],
@@ -3187,6 +3627,10 @@ words = {
     [
       "round",
       "number"
+    ],
+    [
+      "running",
+      "out"
     ],
     [
       "running",
@@ -3231,6 +3675,10 @@ words = {
     [
       "scientific",
       "rationale"
+    ],
+    [
+      "sea",
+      "dance"
     ],
     [
       "second",
@@ -3285,6 +3733,10 @@ words = {
       "fingers"
     ],
     [
+      "shaking",
+      "head"
+    ],
+    [
       "shiny",
       "bomb"
     ],
@@ -3315,6 +3767,10 @@ words = {
     [
       "side",
       "tunnel"
+    ],
+    [
+      "sign",
+      "doc"
     ],
     [
       "sign",
@@ -3349,6 +3805,10 @@ words = {
       "years"
     ],
     [
+      "sixty",
+      "miles"
+    ],
+    [
       "skull",
       "necklace"
     ],
@@ -3367,6 +3827,10 @@ words = {
     [
       "small",
       "building"
+    ],
+    [
+      "small",
+      "but"
     ],
     [
       "small",
@@ -3617,8 +4081,16 @@ words = {
       "resemblance"
     ],
     [
+      "strong",
+      "stuff"
+    ],
+    [
       "stuck",
       "back"
+    ],
+    [
+      "stunned",
+      "she"
     ],
     [
       "stupid",
@@ -3666,11 +4138,19 @@ words = {
     ],
     [
       "taking",
+      "out"
+    ],
+    [
+      "taking",
       "pictures"
     ],
     [
       "tall",
       "man"
+    ],
+    [
+      "tardy",
+      "slip"
     ],
     [
       "telling",
@@ -3698,6 +4178,10 @@ words = {
     ],
     [
       "ten",
+      "minutes"
+    ],
+    [
+      "ten",
       "years"
     ],
     [
@@ -3706,7 +4190,7 @@ words = {
     ],
     [
       "then",
-      "Seamus"
+      "doc"
     ],
     [
       "then",
@@ -3718,7 +4202,19 @@ words = {
     ],
     [
       "then",
+      "how"
+    ],
+    [
+      "then",
+      "seamus"
+    ],
+    [
+      "then",
       "sees"
+    ],
+    [
+      "then",
+      "she"
     ],
     [
       "then",
@@ -3745,6 +4241,18 @@ words = {
       "turns"
     ],
     [
+      "then",
+      "wait"
+    ],
+    [
+      "then",
+      "who's"
+    ],
+    [
+      "then",
+      "you"
+    ],
+    [
       "thinking",
       "fourth"
     ],
@@ -3755,6 +4263,10 @@ words = {
     [
       "three",
       "days"
+    ],
+    [
+      "three",
+      "old"
     ],
     [
       "three",
@@ -3805,12 +4317,20 @@ words = {
       "hombre"
     ],
     [
+      "toward",
+      "hill"
+    ],
+    [
       "tracked",
       "you"
     ],
     [
       "transported",
       "forward"
+    ],
+    [
+      "turned",
+      "hill"
     ],
     [
       "turned",
@@ -3839,6 +4359,10 @@ words = {
     [
       "twenty-one",
       "gigawatts"
+    ],
+    [
+      "twin",
+      "pines"
     ],
     [
       "two",
@@ -3881,12 +4405,16 @@ words = {
       "weeks"
     ],
     [
+      "two",
+      "young"
+    ],
+    [
       "ugly",
       "hat"
     ],
     [
       "unconscious",
-      "Jennifer"
+      "jennifer"
     ],
     [
       "under",
@@ -3899,6 +4427,14 @@ words = {
     [
       "unfavorable",
       "story"
+    ],
+    [
+      "union",
+      "presents"
+    ],
+    [
+      "united",
+      "states"
     ],
     [
       "unnecessary",
@@ -3974,7 +4510,7 @@ words = {
     ],
     [
       "war",
-      "Indians"
+      "indians"
     ],
     [
       "warm",
@@ -3987,6 +4523,14 @@ words = {
     [
       "wearing",
       "nothing"
+    ],
+    [
+      "weather",
+      "channel"
+    ],
+    [
+      "weather",
+      "conditions"
     ],
     [
       "weather",
@@ -4007,6 +4551,26 @@ words = {
     [
       "well",
       "you"
+    ],
+    [
+      "west",
+      "virginia"
+    ],
+    [
+      "western",
+      "clothes"
+    ],
+    [
+      "western",
+      "costume"
+    ],
+    [
+      "western",
+      "movie"
+    ],
+    [
+      "western",
+      "union"
     ],
     [
       "whatever",
@@ -4053,6 +4617,10 @@ words = {
       "open"
     ],
     [
+      "wild",
+      "gunman"
+    ],
+    [
       "wild-eyed",
       "old"
     ],
@@ -4085,6 +4653,10 @@ words = {
       "series"
     ],
     [
+      "world",
+      "war"
+    ],
+    [
       "worn",
       "out"
     ],
@@ -4115,6 +4687,14 @@ words = {
     [
       "yelling",
       "noises"
+    ],
+    [
+      "yellow",
+      "belly"
+    ],
+    [
+      "young",
+      "biff"
     ],
     [
       "young",
@@ -31743,17 +32323,6 @@ words = {
     "Anglicanism",
     "Anglicans",
     "Anglistics",
-    "Anglo",
-    "Anglo-American",
-    "Anglo-Catholic",
-    "Anglo-Catholics",
-    "Anglo-French",
-    "Anglo-Indian",
-    "Anglo-Irish",
-    "Anglo-Norman",
-    "Anglo-Saxon",
-    "Anglo-Saxons",
-    "Anglos",
     "Angola",
     "Angostura",
     "Anguilla",
@@ -33130,8 +33699,6 @@ words = {
     "Chinatown",
     "Chindit",
     "Chindits",
-    "Chinee",
-    "Chinese",
     "Chios",
     "Chippendale",
     "Chippendales",
@@ -35311,22 +35878,13 @@ words = {
     "Inchon",
     "Ind",
     "India",
-    "Indiaman",
-    "Indian",
     "Indiana",
     "Indianapolis",
     "Indianisation",
     "Indianization",
     "Indians",
     "Indic",
-    "Indo-Aryan",
-    "Indo-Aryans",
-    "Indo-European",
-    "Indo-Germanic",
-    "Indo-Iranian",
-    "Indo-Pacific",
     "Indonesia",
-    "Indonesian",
     "Indonesians",
     "Indore",
     "Indra",
