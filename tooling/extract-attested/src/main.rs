@@ -66,6 +66,9 @@ fn main() -> Res<()> {
         || c == ';'
         ;
 
+    let mut adj_lower = String::with_capacity(32);
+    let mut noun_lower = String::with_capacity(32);
+
     for line in std::io::stdin().lines() {
         let line = line?;
 
@@ -73,12 +76,37 @@ fn main() -> Res<()> {
         while let Some(poss_adj) = iter.next() {
             if let Some(poss_noun) = iter.peek() {
                 let poss_noun: &str = poss_noun;
-                // TODO? Case-insensitivity?
-                if adjectives.contains(poss_adj)
-                && nouns.contains(poss_noun) {
+
+                use std::fmt::Write;
+                if (
+                    // First so adj_lower is always up to date when we
+                    // get a match
+                    {
+                        adj_lower.clear();
+
+                        write!(&mut adj_lower, "{poss_adj}")?;
+                        adj_lower.make_ascii_lowercase();
+
+                        adjectives.contains(&adj_lower)
+                    }
+                    || adjectives.contains(poss_adj)
+                )
+                && (
+                    // First so noun_lower is always up to date when we
+                    // get a match
+                    {
+                        noun_lower.clear();
+
+                        write!(&mut noun_lower, "{poss_noun}")?;
+                        noun_lower.make_ascii_lowercase();
+
+                        nouns.contains(&noun_lower)
+                    }
+                    || nouns.contains(poss_noun)
+                ) {
                     words.attested.insert((
-                        poss_adj.to_string(),
-                        poss_noun.to_string()
+                        adj_lower.clone(),
+                        noun_lower.clone()
                     ));
                 }
             }
