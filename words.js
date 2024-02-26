@@ -61,6 +61,10 @@ words = {
       "you"
     ],
     [
+      "air",
+      "smells"
+    ],
+    [
       "all",
       "back"
     ],
@@ -173,6 +177,10 @@ words = {
       "history"
     ],
     [
+      "amusing",
+      "anecdote"
+    ],
+    [
       "angered",
       "look"
     ],
@@ -218,7 +226,23 @@ words = {
     ],
     [
       "any",
+      "apple"
+    ],
+    [
+      "any",
       "attention"
+    ],
+    [
+      "any",
+      "bavarian"
+    ],
+    [
+      "any",
+      "bear"
+    ],
+    [
+      "any",
+      "cinnamon"
     ],
     [
       "any",
@@ -243,6 +267,10 @@ words = {
     [
       "any",
       "idea"
+    ],
+    [
+      "any",
+      "jelly"
     ],
     [
       "any",
@@ -434,6 +462,14 @@ words = {
     ],
     [
       "big",
+      "bite"
+    ],
+    [
+      "big",
+      "bowl"
+    ],
+    [
+      "big",
       "brown"
     ],
     [
@@ -446,7 +482,15 @@ words = {
     ],
     [
       "big",
+      "fat"
+    ],
+    [
+      "big",
       "house"
+    ],
+    [
+      "big",
+      "leather"
     ],
     [
       "big",
@@ -473,8 +517,16 @@ words = {
       "implants"
     ],
     [
+      "bitty",
+      "boy"
+    ],
+    [
       "black",
       "steam"
+    ],
+    [
+      "bleeding",
+      "all"
     ],
     [
       "bomb",
@@ -577,6 +629,10 @@ words = {
       "down"
     ],
     [
+      "burned",
+      "out"
+    ],
+    [
       "business",
       "proposal"
     ],
@@ -629,6 +685,10 @@ words = {
       "back"
     ],
     [
+      "chocolate",
+      "mint"
+    ],
+    [
       "chopping",
       "meat"
     ],
@@ -639,6 +699,10 @@ words = {
     [
       "close",
       "behind"
+    ],
+    [
+      "colonic",
+      "irrigation"
     ],
     [
       "color",
@@ -727,6 +791,10 @@ words = {
     [
       "crashing",
       "straight"
+    ],
+    [
+      "crazed",
+      "weasels"
     ],
     [
       "crazy",
@@ -847,6 +915,10 @@ words = {
     [
       "defeated",
       "washington"
+    ],
+    [
+      "dental",
+      "floss"
     ],
     [
       "deputy",
@@ -1054,6 +1126,10 @@ words = {
     ],
     [
       "every",
+      "single"
+    ],
+    [
+      "every",
       "time"
     ],
     [
@@ -1067,6 +1143,14 @@ words = {
     [
       "exact",
       "time"
+    ],
+    [
+      "excess",
+      "earwax"
+    ],
+    [
+      "existential",
+      "quandary"
     ],
     [
       "explicit",
@@ -1085,12 +1169,24 @@ words = {
       "three"
     ],
     [
+      "familiar",
+      "voice"
+    ],
+    [
+      "far",
+      "away"
+    ],
+    [
       "far",
       "does"
     ],
     [
       "far",
       "out"
+    ],
+    [
+      "faraway",
+      "place"
     ],
     [
       "farm",
@@ -1183,6 +1279,10 @@ words = {
     [
       "fine",
       "kentucky"
+    ],
+    [
+      "first",
+      "class"
     ],
     [
       "first",
@@ -1318,7 +1418,15 @@ words = {
     ],
     [
       "full",
+      "days"
+    ],
+    [
+      "full",
       "hour"
+    ],
+    [
+      "full",
+      "upright"
     ],
     [
       "further",
@@ -1405,6 +1513,10 @@ words = {
       "somebody"
     ],
     [
+      "glazed",
+      "donuts"
+    ],
+    [
       "going",
       "away"
     ],
@@ -1419,6 +1531,14 @@ words = {
     [
       "going",
       "now"
+    ],
+    [
+      "going",
+      "nuts"
+    ],
+    [
+      "going",
+      "swell"
     ],
     [
       "going",
@@ -1497,6 +1617,10 @@ words = {
       "trip"
     ],
     [
+      "grand",
+      "prize"
+    ],
+    [
       "grave",
       "wasn't"
     ],
@@ -1551,6 +1675,10 @@ words = {
     [
       "guns",
       "down"
+    ],
+    [
+      "half",
+      "years"
     ],
     [
       "hanging",
@@ -1737,6 +1865,10 @@ words = {
       "event"
     ],
     [
+      "in-flight",
+      "movie"
+    ],
+    [
       "industrial",
       "strength"
     ],
@@ -1781,8 +1913,16 @@ words = {
       "benny"
     ],
     [
+      "jugular",
+      "vein"
+    ],
+    [
       "just",
       "back"
+    ],
+    [
+      "just",
+      "being"
     ],
     [
       "just",
@@ -1810,6 +1950,14 @@ words = {
     ],
     [
       "just",
+      "going"
+    ],
+    [
+      "just",
+      "great"
+    ],
+    [
+      "just",
       "have"
     ],
     [
@@ -1831,6 +1979,10 @@ words = {
     [
       "just",
       "keep"
+    ],
+    [
+      "just",
+      "keeps"
     ],
     [
       "just",
@@ -1887,6 +2039,10 @@ words = {
     [
       "just",
       "put"
+    ],
+    [
+      "just",
+      "rolls"
     ],
     [
       "just",
@@ -1997,6 +2153,14 @@ words = {
       "bum"
     ],
     [
+      "least",
+      "you"
+    ],
+    [
+      "lifelong",
+      "dream"
+    ],
+    [
       "light",
       "beer"
     ],
@@ -2019,6 +2183,14 @@ words = {
     [
       "like",
       "men"
+    ],
+    [
+      "like",
+      "one"
+    ],
+    [
+      "like",
+      "warm"
     ],
     [
       "like",
@@ -2062,6 +2234,10 @@ words = {
     ],
     [
       "little",
+      "chocolate"
+    ],
+    [
+      "little",
       "cot"
     ],
     [
@@ -2078,6 +2254,10 @@ words = {
     ],
     [
       "little",
+      "ditty"
+    ],
+    [
+      "little",
       "girl"
     ],
     [
@@ -2087,6 +2267,10 @@ words = {
     [
       "little",
       "info"
+    ],
+    [
+      "little",
+      "kid"
     ],
     [
       "little",
@@ -2118,6 +2302,10 @@ words = {
     ],
     [
       "little",
+      "place"
+    ],
+    [
+      "little",
       "plutonium"
     ],
     [
@@ -2127,6 +2315,10 @@ words = {
     [
       "little",
       "pumpkin"
+    ],
+    [
+      "little",
+      "something"
     ],
     [
       "little",
@@ -2167,6 +2359,10 @@ words = {
     [
       "loading",
       "stuff"
+    ],
+    [
+      "local",
+      "radio"
     ],
     [
       "log",
@@ -2215,6 +2411,10 @@ words = {
     [
       "long",
       "silence"
+    ],
+    [
+      "long",
+      "story"
     ],
     [
       "long",
@@ -2278,6 +2478,10 @@ words = {
     ],
     [
       "lucky",
+      "snorkel"
+    ],
+    [
+      "lucky",
       "winning"
     ],
     [
@@ -2287,6 +2491,10 @@ words = {
     [
       "mad",
       "dog"
+    ],
+    [
+      "made",
+      "employee"
     ],
     [
       "made",
@@ -2373,6 +2581,10 @@ words = {
       "you"
     ],
     [
+      "meaningless",
+      "existence"
+    ],
+    [
       "meet",
       "anybody"
     ],
@@ -2415,6 +2627,10 @@ words = {
     [
       "miserable",
       "flying"
+    ],
+    [
+      "mixed-up",
+      "universe"
     ],
     [
       "model",
@@ -2813,6 +3029,10 @@ words = {
       "you"
     ],
     [
+      "oncoming",
+      "train"
+    ],
+    [
       "one",
       "bullet"
     ],
@@ -2839,6 +3059,10 @@ words = {
     [
       "one",
       "doc"
+    ],
+    [
+      "one",
+      "dozen"
     ],
     [
       "one",
@@ -2883,6 +3107,10 @@ words = {
     [
       "one",
       "more"
+    ],
+    [
+      "one",
+      "nostril"
     ],
     [
       "one",
@@ -2939,6 +3167,10 @@ words = {
     [
       "one",
       "will"
+    ],
+    [
+      "one-way",
+      "ticket"
     ],
     [
       "only",
@@ -3249,6 +3481,10 @@ words = {
       "coming"
     ],
     [
+      "part-time",
+      "job"
+    ],
+    [
       "particular",
       "date"
     ],
@@ -3457,6 +3693,10 @@ words = {
       "excitement"
     ],
     [
+      "radio",
+      "station"
+    ],
+    [
       "random",
       "intervals"
     ],
@@ -3467,6 +3707,10 @@ words = {
     [
       "read",
       "jules"
+    ],
+    [
+      "real",
+      "airplane"
     ],
     [
       "real",
@@ -3499,6 +3743,10 @@ words = {
     [
       "reassuring",
       "doc"
+    ],
+    [
+      "record",
+      "club"
     ],
     [
       "record",
@@ -3558,11 +3806,19 @@ words = {
     ],
     [
       "right",
+      "down"
+    ],
+    [
+      "right",
       "here"
     ],
     [
       "right",
       "now"
+    ],
+    [
+      "right",
+      "out"
     ],
     [
       "right",
@@ -3621,6 +3877,10 @@ words = {
       "nonsense"
     ],
     [
+      "root",
+      "beer"
+    ],
+    [
       "rough",
       "neighborhood"
     ],
@@ -3629,12 +3889,20 @@ words = {
       "number"
     ],
     [
+      "roundabout",
+      "way"
+    ],
+    [
       "running",
       "out"
     ],
     [
       "running",
       "two"
+    ],
+    [
+      "salted",
+      "peanuts"
     ],
     [
       "same",
@@ -3647,6 +3915,10 @@ words = {
     [
       "same",
       "moment"
+    ],
+    [
+      "same",
+      "piece"
     ],
     [
       "same",
@@ -3733,6 +4005,10 @@ words = {
       "fingers"
     ],
     [
+      "severe",
+      "body"
+    ],
+    [
       "shaking",
       "head"
     ],
@@ -3797,6 +4073,10 @@ words = {
       "flowing"
     ],
     [
+      "single",
+      "morning"
+    ],
+    [
       "sister",
       "will"
     ],
@@ -3822,7 +4102,15 @@ words = {
     ],
     [
       "slight",
+      "overbite"
+    ],
+    [
+      "slight",
       "possibility"
+    ],
+    [
+      "small",
+      "bit"
     ],
     [
       "small",
@@ -3857,6 +4145,10 @@ words = {
       "sign"
     ],
     [
+      "solemn",
+      "vow"
+    ],
+    [
       "some",
       "binoculars"
     ],
@@ -3867,6 +4159,10 @@ words = {
     [
       "some",
       "coffee"
+    ],
+    [
+      "some",
+      "donuts"
     ],
     [
       "some",
@@ -4034,6 +4330,10 @@ words = {
     ],
     [
       "still",
+      "won"
+    ],
+    [
+      "still",
       "work"
     ],
     [
@@ -4067,6 +4367,10 @@ words = {
     [
       "straight",
       "weren't"
+    ],
+    [
+      "strained",
+      "peaches"
     ],
     [
       "strait",
@@ -4129,6 +4433,10 @@ words = {
       "girl"
     ],
     [
+      "sweet",
+      "mother"
+    ],
+    [
       "swinging",
       "bench"
     ],
@@ -4185,8 +4493,16 @@ words = {
       "years"
     ],
     [
+      "tenor",
+      "saxophone"
+    ],
+    [
       "terrorist",
       "group"
+    ],
+    [
+      "then",
+      "dial"
     ],
     [
       "then",
@@ -4203,6 +4519,14 @@ words = {
     [
       "then",
       "how"
+    ],
+    [
+      "then",
+      "life"
+    ],
+    [
+      "then",
+      "one"
     ],
     [
       "then",
@@ -4263,6 +4587,10 @@ words = {
     [
       "three",
       "days"
+    ],
+    [
+      "three",
+      "full"
     ],
     [
       "three",
@@ -4329,6 +4657,14 @@ words = {
       "forward"
     ],
     [
+      "true",
+      "love"
+    ],
+    [
+      "turned",
+      "down"
+    ],
+    [
       "turned",
       "hill"
     ],
@@ -4343,6 +4679,14 @@ words = {
     [
       "twenty",
       "five"
+    ],
+    [
+      "twenty",
+      "seconds"
+    ],
+    [
+      "twenty",
+      "six"
     ],
     [
       "twenty-first",
@@ -4382,6 +4726,10 @@ words = {
     ],
     [
       "two",
+      "large"
+    ],
+    [
+      "two",
       "mouthfuls"
     ],
     [
@@ -4417,6 +4765,10 @@ words = {
       "jennifer"
     ],
     [
+      "undeniable",
+      "fact"
+    ],
+    [
       "under",
       "arrest"
     ],
@@ -4439,6 +4791,10 @@ words = {
     [
       "unnecessary",
       "time"
+    ],
+    [
+      "upright",
+      "position"
     ],
     [
       "used",
@@ -4519,6 +4875,10 @@ words = {
     [
       "warm",
       "front"
+    ],
+    [
+      "warm",
+      "root"
     ],
     [
       "wearing",
@@ -4606,11 +4966,23 @@ words = {
     ],
     [
       "whole",
+      "point"
+    ],
+    [
+      "whole",
+      "situation"
+    ],
+    [
+      "whole",
       "story"
     ],
     [
       "whole",
       "thing"
+    ],
+    [
+      "whole",
+      "time"
     ],
     [
       "wide",
@@ -15026,8 +15398,6 @@ words = {
     "heretical",
     "heretofore",
     "heritable",
-    "hermaphrodite",
-    "hermaphroditic",
     "hermeneutic",
     "hermetic",
     "hermitical",
@@ -75062,9 +75432,6 @@ words = {
     "herls",
     "herm",
     "herma",
-    "hermaphrodite",
-    "hermaphrodites",
-    "hermaphroditism",
     "hermeneutics",
     "hermit",
     "hermitage",
