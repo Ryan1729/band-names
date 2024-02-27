@@ -305,6 +305,10 @@ words = {
       "way"
     ],
     [
+      "apart",
+      "you"
+    ],
+    [
       "appropriate",
       "question"
     ],
@@ -395,6 +399,10 @@ words = {
     [
       "beat",
       "iowa"
+    ],
+    [
+      "beautiful",
+      "casino"
     ],
     [
       "beautiful",
@@ -617,6 +625,10 @@ words = {
       "damage"
     ],
     [
+      "buck",
+      "job"
+    ],
+    [
       "bull",
       "now"
     ],
@@ -691,6 +703,10 @@ words = {
     [
       "chopping",
       "meat"
+    ],
+    [
+      "clerical",
+      "error"
     ],
     [
       "climbing",
@@ -913,6 +929,10 @@ words = {
       "doctor"
     ],
     [
+      "dear",
+      "love"
+    ],
+    [
       "defeated",
       "washington"
     ],
@@ -1038,6 +1058,10 @@ words = {
     ],
     [
       "else",
+      "who"
+    ],
+    [
+      "else",
       "you"
     ],
     [
@@ -1074,6 +1098,10 @@ words = {
     ],
     [
       "entire",
+      "future"
+    ],
+    [
+      "entire",
       "life"
     ],
     [
@@ -1083,6 +1111,10 @@ words = {
     [
       "entire",
       "plan"
+    ],
+    [
+      "entire",
+      "space-time"
     ],
     [
       "entire",
@@ -1099,6 +1131,14 @@ words = {
     [
       "even",
       "give"
+    ],
+    [
+      "even",
+      "half"
+    ],
+    [
+      "even",
+      "have"
     ],
     [
       "even",
@@ -1157,6 +1197,10 @@ words = {
       "instructions"
     ],
     [
+      "extra",
+      "plutonium"
+    ],
+    [
       "fabulous",
       "winning"
     ],
@@ -1171,6 +1215,10 @@ words = {
     [
       "familiar",
       "voice"
+    ],
+    [
+      "famous",
+      "hill"
     ],
     [
       "far",
@@ -1361,6 +1409,10 @@ words = {
       "hair"
     ],
     [
+      "fluffy",
+      "where"
+    ],
+    [
       "fly",
       "away"
     ],
@@ -1431,6 +1483,10 @@ words = {
     [
       "further",
       "disruption"
+    ],
+    [
+      "future",
+      "boy"
     ],
     [
       "future",
@@ -1642,6 +1698,10 @@ words = {
     ],
     [
       "great",
+      "how"
+    ],
+    [
+      "great",
       "idea"
     ],
     [
@@ -1723,6 +1783,10 @@ words = {
     [
       "heard",
       "you"
+    ],
+    [
+      "held",
+      "tomorrow"
     ],
     [
       "here",
@@ -1897,6 +1961,10 @@ words = {
       "music"
     ],
     [
+      "interesting",
+      "subject"
+    ],
+    [
       "internal",
       "combustion"
     ],
@@ -1918,6 +1986,10 @@ words = {
     ],
     [
       "just",
+      "asking"
+    ],
+    [
+      "just",
       "back"
     ],
     [
@@ -1935,6 +2007,10 @@ words = {
     [
       "just",
       "change"
+    ],
+    [
+      "just",
+      "doesn't"
     ],
     [
       "just",
@@ -2054,6 +2130,10 @@ words = {
     ],
     [
       "just",
+      "shove"
+    ],
+    [
+      "just",
       "stares"
     ],
     [
@@ -2139,6 +2219,10 @@ words = {
     [
       "last",
       "week"
+    ],
+    [
+      "late",
+      "tonight"
     ],
     [
       "latest",
@@ -2258,6 +2342,10 @@ words = {
     ],
     [
       "little",
+      "experience"
+    ],
+    [
+      "little",
       "girl"
     ],
     [
@@ -2315,6 +2403,10 @@ words = {
     [
       "little",
       "pumpkin"
+    ],
+    [
+      "little",
+      "self"
     ],
     [
       "little",
@@ -2465,6 +2557,10 @@ words = {
       "price"
     ],
     [
+      "lower",
+      "taxes"
+    ],
+    [
       "loyal",
       "friend"
     ],
@@ -2578,6 +2674,10 @@ words = {
     ],
     [
       "mean",
+      "three-quarters"
+    ],
+    [
+      "mean",
       "you"
     ],
     [
@@ -2629,6 +2729,10 @@ words = {
       "flying"
     ],
     [
+      "missing",
+      "plutonium"
+    ],
+    [
       "mixed-up",
       "universe"
     ],
@@ -2647,6 +2751,10 @@ words = {
     [
       "modern",
       "day"
+    ],
+    [
+      "molecular",
+      "structure"
     ],
     [
       "momentary",
@@ -3078,6 +3186,10 @@ words = {
     ],
     [
       "one",
+      "hell"
+    ],
+    [
+      "one",
       "here"
     ],
     [
@@ -3171,6 +3283,10 @@ words = {
     [
       "one-way",
       "ticket"
+    ],
+    [
+      "only",
+      "biff"
     ],
     [
       "only",
@@ -3395,6 +3511,10 @@ words = {
     [
       "over",
       "near"
+    ],
+    [
+      "over",
+      "north"
     ],
     [
       "over",
@@ -3669,6 +3789,10 @@ words = {
       "away"
     ],
     [
+      "punk",
+      "calvin"
+    ],
+    [
       "purple",
       "liquid"
     ],
@@ -3849,6 +3973,10 @@ words = {
       "but"
     ],
     [
+      "ripped",
+      "iowa"
+    ],
+    [
       "ripple",
       "effect"
     ],
@@ -3949,6 +4077,10 @@ words = {
       "rationale"
     ],
     [
+      "screaming",
+      "you"
+    ],
+    [
       "sea",
       "dance"
     ],
@@ -4015,6 +4147,10 @@ words = {
     [
       "shiny",
       "bomb"
+    ],
+    [
+      "shock",
+      "doc"
     ],
     [
       "short",
@@ -4145,6 +4281,10 @@ words = {
       "sign"
     ],
     [
+      "smelling",
+      "salts"
+    ],
+    [
       "solemn",
       "vow"
     ],
@@ -4206,6 +4346,10 @@ words = {
     ],
     [
       "some",
+      "old"
+    ],
+    [
+      "some",
       "people"
     ],
     [
@@ -4243,6 +4387,10 @@ words = {
     [
       "sore",
       "eyes"
+    ],
+    [
+      "sorry",
+      "fellas"
     ],
     [
       "special",
@@ -4294,6 +4442,10 @@ words = {
     ],
     [
       "state",
+      "beat"
+    ],
+    [
+      "state",
       "penitentiary"
     ],
     [
@@ -4307,6 +4459,10 @@ words = {
     [
       "still",
       "hanging"
+    ],
+    [
+      "still",
+      "have"
     ],
     [
       "still",
@@ -4393,8 +4549,16 @@ words = {
       "back"
     ],
     [
+      "stuck",
+      "here"
+    ],
+    [
       "stunned",
       "she"
+    ],
+    [
+      "stupid",
+      "disguise"
     ],
     [
       "stupid",
@@ -4418,11 +4582,19 @@ words = {
     ],
     [
       "sure",
+      "can"
+    ],
+    [
+      "sure",
       "hope"
     ],
     [
       "sure",
       "set"
+    ],
+    [
+      "sure",
+      "where"
     ],
     [
       "suspended",
@@ -4497,6 +4669,10 @@ words = {
       "saxophone"
     ],
     [
+      "terrible",
+      "disaster"
+    ],
+    [
       "terrorist",
       "group"
     ],
@@ -4523,6 +4699,10 @@ words = {
     [
       "then",
       "life"
+    ],
+    [
+      "then",
+      "none"
     ],
     [
       "then",
@@ -4898,6 +5078,10 @@ words = {
     ],
     [
       "weather",
+      "sensing"
+    ],
+    [
+      "weather",
       "service"
     ],
     [
@@ -5029,6 +5213,10 @@ words = {
       "war"
     ],
     [
+      "world",
+      "wouldn't"
+    ],
+    [
       "worn",
       "out"
     ],
@@ -5039,6 +5227,10 @@ words = {
     [
       "worst",
       "nightmare"
+    ],
+    [
+      "written",
+      "all"
     ],
     [
       "wrong",
