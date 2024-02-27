@@ -90,71 +90,6 @@ fn main() -> Res<()> {
     let adjectives: HashSet<String> = HashSet::from_iter(words.adjectives.clone());
     let nouns: HashSet<String> = HashSet::from_iter(words.nouns.clone());
 
-    fn add_pairs(
-        attested: &mut AttestedSet,
-        // TODO Are we missing pairs that are split across lines?
-        lines: impl Iterator<Item = String>,
-        adjectives: &HashSet<String>,
-        nouns: &HashSet<String>,
-    ) -> Res<()> {
-        let pattern = |c: char|
-            c.is_whitespace()
-            || c == '.'
-            || c == '!'
-            || c == '?'
-            || c == '"'
-            || c == ':'
-            || c == ';'
-            ;
-
-        let mut adj_lower = String::with_capacity(32);
-        let mut noun_lower = String::with_capacity(32);
-
-        for line in lines {
-            let mut iter = line.split(pattern).peekable();
-            while let Some(poss_adj) = iter.next() {
-                if let Some(poss_noun) = iter.peek() {
-                    let poss_noun: &str = poss_noun;
-
-                    use std::fmt::Write;
-                    if (
-                        // First so adj_lower is always up to date when we
-                        // get a match
-                        {
-                            adj_lower.clear();
-
-                            write!(&mut adj_lower, "{poss_adj}")?;
-                            adj_lower.make_ascii_lowercase();
-
-                            adjectives.contains(&adj_lower)
-                        }
-                        || adjectives.contains(poss_adj)
-                    )
-                    && (
-                        // First so noun_lower is always up to date when we
-                        // get a match
-                        {
-                            noun_lower.clear();
-
-                            write!(&mut noun_lower, "{poss_noun}")?;
-                            noun_lower.make_ascii_lowercase();
-
-                            nouns.contains(&noun_lower)
-                        }
-                        || nouns.contains(poss_noun)
-                    ) {
-                        attested.insert((
-                            adj_lower.clone(),
-                            noun_lower.clone()
-                        ));
-                    }
-                }
-            }
-        }
-
-        Ok(())
-    }
-
     let lines = std::io::stdin().lines().filter_map(|res| res.ok());
 
     match mode {
@@ -217,3 +152,134 @@ fn main() -> Res<()> {
 
     Ok(())
 }
+
+fn add_pairs(
+    attested: &mut AttestedSet,
+    // TODO Are we missing pairs that are split across lines?
+    lines: impl Iterator<Item = String>,
+    adjectives: &HashSet<String>,
+    nouns: &HashSet<String>,
+) -> Res<()> {
+    let pattern = |c: char|
+        c.is_whitespace()
+        || c == '.'
+        || c == '!'
+        || c == '?'
+        || c == '"'
+        || c == ':'
+        || c == ';'
+        ;
+
+    let mut adj_lower = String::with_capacity(32);
+    let mut noun_lower = String::with_capacity(32);
+
+    let mut lines = lines.peekable();
+
+    while let Some(line) = lines.next() {
+        let mut iter = line.split(pattern).peekable();
+        while let Some(poss_adj) = iter.next() {
+            let peeked = match iter.peek() {
+                Some(poss_noun) => Some(poss_noun.to_string()),
+                None => lines.peek()
+                    .and_then(|line|
+                        line.split(pattern)
+                            .next()
+                            .map(|poss_noun| poss_noun.to_string())
+                    ),
+            };
+            if let Some(poss_noun) = peeked {
+                use std::fmt::Write;
+                if (
+                    // First so adj_lower is always up to date when we
+                    // get a match
+                    {
+                        adj_lower.clear();
+
+                        write!(&mut adj_lower, "{poss_adj}")?;
+                        adj_lower.make_ascii_lowercase();
+
+                        adjectives.contains(&adj_lower)
+                    }
+                    || adjectives.contains(poss_adj)
+                )
+                && (
+                    // First so noun_lower is always up to date when we
+                    // get a match
+                    {
+                        noun_lower.clear();
+
+                        write!(&mut noun_lower, "{poss_noun}")?;
+                        noun_lower.make_ascii_lowercase();
+
+                        nouns.contains(&noun_lower)
+                    }
+                    || nouns.contains(&poss_noun)
+                ) {
+                    attested.insert((
+                        adj_lower.clone(),
+                        noun_lower.clone()
+                    ));
+                }
+            }
+        }
+    }
+
+    Ok(())
+}
+
+#[test]
+fn add_pairs_works_on_this_singleline_example() {
+    let mut attested = AttestedSet::new();
+
+    const ADJ: &str = "adj";
+    const NOUN: &str = "noun";
+    macro_rules! adj {
+        () => {
+            ADJ.to_string()
+        }
+    }
+    macro_rules! noun {
+        () => {
+            NOUN.to_string()
+        }
+    }
+
+    add_pairs(
+        &mut attested,
+        [format!("{} {}", adj!(), noun!())].into_iter(),
+        &HashSet::from([adj!()]),
+        &HashSet::from([noun!()]),
+    ).unwrap();
+
+    assert!(attested.contains(&(adj!(), noun!())));
+}
+
+#[test]
+fn add_pairs_works_on_this_multiline_example() {
+    let mut attested = AttestedSet::new();
+
+    const ADJ: &str = "adj";
+    const NOUN: &str = "noun";
+    macro_rules! adj {
+        () => {
+            ADJ.to_string()
+        }
+    }
+    macro_rules! noun {
+        () => {
+            NOUN.to_string()
+        }
+    }
+
+    add_pairs(
+        &mut attested,
+        [adj!(), noun!()].into_iter(),
+        &HashSet::from([adj!()]),
+        &HashSet::from([noun!()]),
+    ).unwrap();
+
+    assert!(attested.contains(&(adj!(), noun!())));
+}
+
+// TODO Add test for words hypenated only to split across lines and make it
+// pass
