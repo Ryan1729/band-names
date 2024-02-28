@@ -281,5 +281,15 @@ fn add_pairs_works_on_this_multiline_example() {
     assert!(attested.contains(&(adj!(), noun!())));
 }
 
-// TODO Add test for words hypenated only to split across lines and make it
-// pass
+// TODO? Add test for words hypenated only to split across lines and make it
+// pass? Or is it better to just preprocess the input if that actually
+// comes up a lot?
+
+// TODO It would be nice to have phrases like "warm root beer", that contain
+// nested noun phraes consisting of adjective noun pairs, preceeded by
+// another adjective be included as well, given they are attested. So we
+// could use the existing set of attested pairs to do that.
+
+// TODO We end up with a lot of words that appear in multiple attested pairs
+// It seems like filtering out pairs that contain words that show up in
+// multiple pairs would produce more interesting results on average.
