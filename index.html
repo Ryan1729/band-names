@@ -22,6 +22,11 @@ padding:0 10px
       <label for="attested-mixed">Attested Mixed</label>
       <input type="radio" id="any" name="mode" value="any" />
       <label for="any">Any</label>
+
+      <div id="filter-repeats-container">
+        <input type="checkbox" id="filter-repeats" name="filter-repeats" checked />
+        <label for="filter-repeats">Filter out words attested more than once</label>
+      </div>
     </form>
     <button id="get-name">Get Random Band Name</button>
     <p id="output-name"></p>
@@ -55,6 +60,28 @@ padding:0 10px
 <script src="words.js"></script>
 <script>
 const warning = document.getElementById("warning")
+const filterRepeats = document.getElementById("filter-repeats")
+const filterRepeatsContainer = document.getElementById("filter-repeats-container")
+
+let attestedCounts = {}
+for ([adj, noun] of words.attested) {
+    if (attestedCounts[adj]) {
+        attestedCounts[adj] += 1
+    } else {
+        attestedCounts[adj] = 1
+    }
+
+    if (attestedCounts[noun]) {
+        attestedCounts[noun] += 1
+    } else {
+        attestedCounts[noun] = 1
+    }
+}
+
+const attestedFiltered = words.attested.filter(
+    // undefined > 1 is false
+    ([adj, noun]) => !(attestedCounts[adj] > 1 || attestedCounts[noun] > 1)
+)
 
 const ATTESTED = "attested"
 const ATTESTED_MIXED = "attested-mixed"
@@ -70,14 +97,17 @@ const onChecked = (id) => {
         case ATTESTED:
             warning.style.visibility = "hidden"
             currentMode = ATTESTED
+            filterRepeatsContainer.style.visibility = "visible"
         break
         case ATTESTED_MIXED:
             warning.style.visibility = "hidden"
             currentMode = ATTESTED_MIXED
+            filterRepeatsContainer.style.visibility = "visible"
         break
         case ANY:
             warning.style.visibility = "visible"
             currentMode = ANY
+            filterRepeatsContainer.style.visibility = "hidden"
         break
     }
 }
@@ -91,16 +121,19 @@ const selectFromArray = (array) => array[Math.floor(Math.random() * array.length
 document.getElementById("get-name").onclick = () => {
     let adj;
     let noun;
+    const attested = filterRepeats.checked
+        ? attestedFiltered
+        : words.attested
     switch (currentMode) {
         default:
             console.error("bad currentMode: " + currentMode)
             //fallthrough
         case ATTESTED:
-            [adj, noun] = selectFromArray(words.attested)
+            [adj, noun] = selectFromArray(attested)
         break
         case ATTESTED_MIXED:
-            [adj, ] = selectFromArray(words.attested);
-            [, noun] = selectFromArray(words.attested);
+            [adj, ] = selectFromArray(attested);
+            [, noun] = selectFromArray(attested);
         break
         case ANY:
             adj = selectFromArray(words.adjectives)
