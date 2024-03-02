@@ -28,6 +28,9 @@ padding:0 10px
         <label for="filter-repeats">Filter out words attested more than once</label>
       </div>
     </form>
+
+    <p id="count-display">Should be replaced at runtime</p>
+
     <button id="get-name">Get Random Band Name</button>
     <p id="output-name"></p>
 </body>
@@ -62,6 +65,7 @@ padding:0 10px
 const warning = document.getElementById("warning")
 const filterRepeats = document.getElementById("filter-repeats")
 const filterRepeatsContainer = document.getElementById("filter-repeats-container")
+const countDisplay = document.getElementById("count-display")
 
 let attestedCounts = {}
 for ([adj, noun] of words.attested) {
@@ -78,6 +82,7 @@ for ([adj, noun] of words.attested) {
     }
 }
 
+// TODO Add control over filtering thresholds
 const attestedFiltered = words.attested.filter(
     // undefined > 1 is false
     ([adj, noun]) => !(attestedCounts[adj] > 1 || attestedCounts[noun] > 1)
@@ -87,61 +92,97 @@ const ATTESTED = "attested"
 const ATTESTED_MIXED = "attested-mixed"
 const ANY = "any"
 
-document.getElementById("mode-form").reset()
-let currentMode = ATTESTED
-const onChecked = (id) => {
-    switch (id) {
+let selected = {
+    mode: ATTESTED,
+    attested: attestedFiltered,
+    adjectives: words.adjectives,
+    nouns: words.nouns,
+}
+
+const renderCountText = (count) => count.toLocaleString() + " band name" + ( count === 1 ? "" : "s") + " possible with current settings"
+
+const updateDisplay = () => {
+    switch (selected.mode) {
         default:
-            console.error("bad id: " + id)
+            console.error("bad mode: " + selected.mode)
             //fallthrough
         case ATTESTED:
             warning.style.visibility = "hidden"
-            currentMode = ATTESTED
             filterRepeatsContainer.style.visibility = "visible"
+            countDisplay.innerText = renderCountText(selected.attested.length)
         break
         case ATTESTED_MIXED:
             warning.style.visibility = "hidden"
-            currentMode = ATTESTED_MIXED
             filterRepeatsContainer.style.visibility = "visible"
+            countDisplay.innerText = renderCountText(selected.attested.length * selected.attested.length)
         break
         case ANY:
             warning.style.visibility = "visible"
-            currentMode = ANY
             filterRepeatsContainer.style.visibility = "hidden"
+            countDisplay.innerText = renderCountText(selected.adjectives.length * selected.nouns.length)
         break
     }
 }
 
-document.getElementById(ATTESTED).onclick = () => onChecked(ATTESTED)
-document.getElementById(ATTESTED_MIXED).onclick = () => onChecked(ATTESTED_MIXED)
-document.getElementById(ANY).onclick = () => onChecked(ANY)
+filterRepeats.onclick = () => {
+    selected.attested = filterRepeats.checked
+        ? attestedFiltered
+        : words.attested
+    updateDisplay()
+}
 
 const selectFromArray = (array) => array[Math.floor(Math.random() * array.length)]
 
 document.getElementById("get-name").onclick = () => {
     let adj;
     let noun;
-    const attested = filterRepeats.checked
-        ? attestedFiltered
-        : words.attested
-    switch (currentMode) {
+    switch (selected.mode) {
         default:
             console.error("bad currentMode: " + currentMode)
             //fallthrough
         case ATTESTED:
-            [adj, noun] = selectFromArray(attested)
+            [adj, noun] = selectFromArray(selected.attested)
         break
         case ATTESTED_MIXED:
-            [adj, ] = selectFromArray(attested);
-            [, noun] = selectFromArray(attested);
+            [adj, ] = selectFromArray(selected.attested);
+            [, noun] = selectFromArray(selected.attested);
         break
         case ANY:
-            adj = selectFromArray(words.adjectives)
-            noun = selectFromArray(words.nouns)
+            adj = selectFromArray(selected.adjectives)
+            noun = selectFromArray(selected.nouns)
         break
     }
 
     document.getElementById("output-name").innerHTML = adj + " " + noun;
 };
+
+// TODO? Is filtering out all attested that have either word that happeed more than once, vs only filtering out those where both happned more than once an intereting distinction?
+
+document.getElementById("mode-form").reset()
+updateDisplay()
+
+const onModeChange = (id) => {
+    switch (id) {
+        default:
+            console.error("bad id: " + id)
+            //fallthrough
+        case ATTESTED:
+            selected.mode = ATTESTED
+        break
+        case ATTESTED_MIXED:
+            selected.mode = ATTESTED_MIXED
+        break
+        case ANY:
+            selected.mode = ANY
+        break
+    }
+
+    updateDisplay()
+}
+
+document.getElementById(ATTESTED).onclick = () => onModeChange(ATTESTED)
+document.getElementById(ATTESTED_MIXED).onclick = () => onModeChange(ATTESTED_MIXED)
+document.getElementById(ANY).onclick = () => onModeChange(ANY)
+
 </script>
 </html>
